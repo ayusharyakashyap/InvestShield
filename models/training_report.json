@@ -1,0 +1,66 @@
+{
+  "training_timestamp": "2025-08-29T19:50:50.971472",
+  "training_data_size": 50,
+  "models_trained": {
+    "fraud_classifier": {
+      "status": "success",
+      "train_accuracy": 1.0,
+      "test_accuracy": 0.3333333333333333,
+      "feature_count": 298,
+      "classification_report": {
+        "0": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 5.0
+        },
+        "1": {
+          "precision": 0.375,
+          "recall": 0.75,
+          "f1-score": 0.5,
+          "support": 4.0
+        },
+        "accuracy": 0.3333333333333333,
+        "macro avg": {
+          "precision": 0.1875,
+          "recall": 0.375,
+          "f1-score": 0.25,
+          "support": 9.0
+        },
+        "weighted avg": {
+          "precision": 0.16666666666666666,
+          "recall": 0.3333333333333333,
+          "f1-score": 0.2222222222222222,
+          "support": 9.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          0,
+          5
+        ],
+        [
+          1,
+          3
+        ]
+      ],
+      "sample_test_accuracy": 0.88
+    },
+    "text_analyzer": {
+      "status": "success",
+      "test_results": {
+        "total_tested": 4,
+        "average_risk_score": 35.75,
+        "max_risk_score": 100,
+        "high_risk_count": 1
+      }
+    },
+    "combined_system": {
+      "status": "success",
+      "ml_accuracy": 0.88,
+      "analyzer_accuracy": 0.5,
+      "combined_accuracy": 0.5,
+      "total_tests": 50
+    }
+  }
+}

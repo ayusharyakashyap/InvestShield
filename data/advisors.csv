@@ -1,0 +1,539 @@
+sebi_number,name,firm_name,status,location,registration_date,validity_date,contact_email,specialization
+INA000001234,Rajesh Kumar,Kumar Investment Advisory,Active,Mumbai,2020-01-15,2025-01-15,rajesh@kumar-advisory.com,Equity Research
+INA000001235,Priya Sharma,Sharma Financial Services,Active,Delhi,2019-06-20,2024-06-20,priya@sharma-financial.com,Mutual Funds
+INA000001236,Amit Patel,Patel Wealth Management,Suspended,Bangalore,2021-03-10,2026-03-10,amit@patel-wealth.com,Portfolio Management
+INA000001237,Sunita Singh,Singh Capital Advisors,Active,Chennai,2018-11-05,2023-11-05,sunita@singh-capital.com,Tax Planning
+INA000001238,Vikram Gupta,Gupta Investment Solutions,Active,Pune,2020-09-25,2025-09-25,vikram@gupta-investment.com,Derivatives
+INA000001239,Meera Reddy,Reddy Asset Management,Active,Hyderabad,2019-08-12,2024-08-12,meera@reddy-asset.com,Insurance Planning
+INA000001240,Rohit Agarwal,Agarwal Financial Planning,Active,Kolkata,2021-01-30,2026-01-30,rohit@agarwal-fp.com,Retirement Planning
+INA000001241,Kavita Joshi,Joshi Investment Advisors,Active,Ahmedabad,2020-05-18,2025-05-18,kavita@joshi-advisors.com,Real Estate Investment
+INA000001242,Deepak Malhotra,Malhotra Capital,Suspended,Jaipur,2019-12-08,2024-12-08,deepak@malhotra-capital.com,Equity Research
+INA000001243,Anita Verma,Verma Wealth Advisors,Active,Chandigarh,2021-07-22,2026-07-22,anita@verma-wealth.com,Mutual Funds
+INA000001244,Suresh Nair,Nair Investment Services,Active,Kochi,2020-03-14,2025-03-14,suresh@nair-investment.com,Portfolio Management
+INA000001245,Pooja Desai,Desai Financial Consultancy,Active,Surat,2019-10-25,2024-10-25,pooja@desai-financial.com,Tax Planning
+INA000001246,Manoj Tiwari,Tiwari Asset Advisors,Active,Lucknow,2021-02-17,2026-02-17,manoj@tiwari-asset.com,Derivatives
+INA000001247,Ritu Chopra,Chopra Investment Group,Active,Gurgaon,2020-11-09,2025-11-09,ritu@chopra-investment.com,Insurance Planning
+INA000001248,Ashok Bansal,Bansal Wealth Management,Cancelled,Indore,2018-04-21,2023-04-21,ashok@bansal-wealth.com,Retirement Planning
+INA000001249,Geeta Pandey,Pandey Financial Solutions,Active,Patna,2019-09-13,2024-09-13,geeta@pandey-financial.com,Real Estate Investment
+INA000001250,Vivek Yadav,Yadav Investment Advisors,Active,Bhopal,2021-06-05,2026-06-05,vivek@yadav-advisors.com,Equity Research
+INA000001251,Neha Srivastava,Srivastava Capital,Active,Kanpur,2020-08-27,2025-08-27,neha@srivastava-capital.com,Mutual Funds
+INA000001252,Kiran Rao,Rao Investment Services,Active,Vishakhapatnam,2019-07-19,2024-07-19,kiran@rao-investment.com,Portfolio Management
+INA000001253,Dinesh Kumar,Kumar Financial Advisors,Active,Nagpur,2021-04-11,2026-04-11,dinesh@kumar-financial.com,Tax Planning
+INA000001254,Asha Bhatt,Bhatt Wealth Solutions,Active,Vadodara,2020-12-03,2025-12-03,asha@bhatt-wealth.com,Derivatives
+INA000001255,Ravi Saxena,Saxena Investment Group,Suspended,Gwalior,2019-01-28,2024-01-28,ravi@saxena-investment.com,Insurance Planning
+INA000001256,Shilpa Kulkarni,Kulkarni Asset Management,Active,Nashik,2021-09-15,2026-09-15,shilpa@kulkarni-asset.com,Retirement Planning
+INA000001257,Mohit Agrawal,Agrawal Financial Services,Active,Meerut,2020-06-07,2025-06-07,mohit@agrawal-financial.com,Real Estate Investment
+INA000001258,Priyanka Singh,Singh Investment Solutions,Active,Ranchi,2019-11-30,2024-11-30,priyanka@singh-investment.com,Equity Research
+INA000001259,Arjun Pillai,Pillai Wealth Advisors,Active,Thiruvananthapuram,2021-08-18,2026-08-18,arjun@pillai-wealth.com,Mutual Funds
+INA000001260,Rekha Goel,Goel Financial Planning,Active,Faridabad,2020-10-12,2025-10-12,rekha@goel-planning.com,Portfolio Management
+INA000001261,Sanjay Dubey,Dubey Investment Advisors,Active,Dehradun,2019-05-26,2024-05-26,sanjay@dubey-advisors.com,Tax Planning
+INA000001262,Sunita Khanna,Khanna Capital Services,Active,Amritsar,2021-03-21,2026-03-21,sunita@khanna-capital.com,Derivatives
+INA000001263,Rajiv Tandon,Tandon Asset Management,Active,Shimla,2020-07-14,2025-07-14,rajiv@tandon-asset.com,Insurance Planning
+INA000001264,Madhuri Jain,Jain Wealth Solutions,Cancelled,Udaipur,2018-12-06,2023-12-06,madhuri@jain-wealth.com,Retirement Planning
+INA000001265,Anil Sharma,Sharma Investment Group,Active,Jammu,2019-04-17,2024-04-17,anil@sharma-group.com,Real Estate Investment
+INA000001266,Pooja Mittal,Mittal Financial Advisors,Active,Agra,2021-11-29,2026-11-29,pooja@mittal-advisors.com,Equity Research
+INA000001267,Harish Gupta,Gupta Capital Solutions,Active,Varanasi,2020-01-23,2025-01-23,harish@gupta-capital.com,Mutual Funds
+INA000001268,Neelam Singh,Singh Asset Advisors,Active,Allahabad,2019-08-05,2024-08-05,neelam@singh-asset.com,Portfolio Management
+INA000001269,Rajesh Pandey,Pandey Investment Services,Active,Gorakhpur,2021-05-17,2026-05-17,rajesh@pandey-investment.com,Tax Planning
+INA000001270,Kavya Nair,Nair Wealth Management,Active,Calicut,2020-09-08,2025-09-08,kavya@nair-wealth.com,Derivatives
+INA000002468,Amit Sharma,Sharma Investment Advisory,Active,Mumbai,2022-03-15,2027-03-15,amit@sharma-investment.com,Equity Research
+INA000003000,Anjali Iyer,Iyer Wealth Advisors,Suspended,Kanpur,2018-11-29,2023-11-28,anjali.iyer@iyer-wealth.com,Equity Research
+INA000003001,Alok Desai,Desai Wealth Advisors,Suspended,Bhopal,2020-05-05,2025-05-04,alok.desai@desai-wealth.com,Derivatives
+INA000003002,Nisha Sharma,Sharma Wealth Advisors,Active,Jaipur,2021-11-16,2026-11-15,nisha.sharma@sharma-wealth.com,Retirement Planning
+INA000003003,Tanvi Chopra,Chopra Wealth Advisors,Active,Bhopal,2018-09-26,2023-09-25,tanvi.chopra@chopra-wealth.com,Mutual Funds
+INA000003004,Harsh Kulkarni,Kulkarni Wealth Advisors,Active,Bhopal,2020-04-11,2025-04-10,harsh.kulkarni@kulkarni-wealth.com,Portfolio Management
+INA000003005,Gaurav Joshi,Joshi Wealth Advisors,Active,Surat,2018-05-20,2023-05-19,gaurav.joshi@joshi-wealth.com,Retirement Planning
+INA000003006,Sneha Sharma,Sharma Wealth Advisors,Suspended,Patna,2022-07-06,2027-07-05,sneha.sharma@sharma-wealth.com,Mutual Funds
+INA000003007,Payal Mehta,Mehta Wealth Advisors,Active,Ahmedabad,2020-06-15,2025-06-14,payal.mehta@mehta-wealth.com,Retirement Planning
+INA000003008,Vishal Agarwal,Agarwal Wealth Advisors,Active,Indore,2020-07-23,2025-07-22,vishal.agarwal@agarwal-wealth.com,Real Estate Investment
+INA000003009,Ramesh Verma,Verma Wealth Advisors,Active,Ahmedabad,2023-04-20,2028-04-18,ramesh.verma@verma-wealth.com,Mutual Funds
+INA000003010,Swati Nair,Nair Wealth Advisors,Active,Hyderabad,2021-04-05,2026-04-04,swati.nair@nair-wealth.com,Insurance Planning
+INA000003011,Sameer Kulkarni,Kulkarni Wealth Advisors,Active,Surat,2021-05-18,2026-05-17,sameer.kulkarni@kulkarni-wealth.com,Insurance Planning
+INA000003012,Anjali Verma,Verma Wealth Advisors,Active,Kanpur,2022-11-16,2027-11-15,anjali.verma@verma-wealth.com,Insurance Planning
+INA000003013,Harsh Pillai,Pillai Wealth Advisors,Active,Kanpur,2018-08-12,2023-08-11,harsh.pillai@pillai-wealth.com,Mutual Funds
+INA000003014,Reema Reddy,Reddy Wealth Advisors,Active,Kolkata,2022-01-16,2027-01-15,reema.reddy@reddy-wealth.com,Mutual Funds
+INA000003015,Ramesh Chopra,Chopra Wealth Advisors,Cancelled,Hyderabad,2020-01-06,2025-01-04,ramesh.chopra@chopra-wealth.com,Insurance Planning
+INA000003016,Harsh Chopra,Chopra Wealth Advisors,Active,Bhopal,2020-04-18,2025-04-17,harsh.chopra@chopra-wealth.com,Retirement Planning
+INA000003017,Alok Reddy,Reddy Wealth Advisors,Active,Pune,2021-01-06,2026-01-05,alok.reddy@reddy-wealth.com,Equity Research
+INA000003018,Rohini Joshi,Joshi Wealth Advisors,Active,Ranchi,2021-05-03,2026-05-02,rohini.joshi@joshi-wealth.com,Derivatives
+INA000003019,Harsh Khanna,Khanna Wealth Advisors,Active,Ahmedabad,2018-02-14,2023-02-13,harsh.khanna@khanna-wealth.com,Equity Research
+INA000003020,Swati Nair,Nair Wealth Advisors,Active,Varanasi,2023-01-26,2028-01-25,swati.nair@nair-wealth.com,Insurance Planning
+INA000003021,Abhishek Pillai,Pillai Wealth Advisors,Active,Bangalore,2019-04-19,2024-04-17,abhishek.pillai@pillai-wealth.com,Tax Planning
+INA000003022,Jyoti Bansal,Bansal Wealth Advisors,Active,Bangalore,2019-03-27,2024-03-25,jyoti.bansal@bansal-wealth.com,Retirement Planning
+INA000003023,Jyoti Patel,Patel Wealth Advisors,Active,Delhi,2022-02-26,2027-02-25,jyoti.patel@patel-wealth.com,Mutual Funds
+INA000003024,Deepika Kulkarni,Kulkarni Wealth Advisors,Active,Varanasi,2022-07-25,2027-07-24,deepika.kulkarni@kulkarni-wealth.com,Retirement Planning
+INA000003025,Rohini Patel,Patel Wealth Advisors,Active,Pune,2019-04-23,2024-04-21,rohini.patel@patel-wealth.com,Insurance Planning
+INA000003026,Jyoti Bhatt,Bhatt Wealth Advisors,Active,Lucknow,2021-12-20,2026-12-19,jyoti.bhatt@bhatt-wealth.com,Portfolio Management
+INA000003027,Ramesh Bansal,Bansal Wealth Advisors,Active,Nagpur,2023-05-22,2028-05-20,ramesh.bansal@bansal-wealth.com,Insurance Planning
+INA000003028,Abhishek Patel,Patel Wealth Advisors,Active,Mumbai,2023-04-01,2028-03-30,abhishek.patel@patel-wealth.com,Portfolio Management
+INA000003029,Gaurav Reddy,Reddy Wealth Advisors,Active,Kanpur,2019-01-09,2024-01-08,gaurav.reddy@reddy-wealth.com,Mutual Funds
+INA000003030,Alok Reddy,Reddy Wealth Advisors,Suspended,Jaipur,2018-05-23,2023-05-22,alok.reddy@reddy-wealth.com,Equity Research
+INA000003031,Tanvi Desai,Desai Wealth Advisors,Suspended,Chennai,2022-03-01,2027-02-28,tanvi.desai@desai-wealth.com,Insurance Planning
+INA000003032,Payal Nair,Nair Wealth Advisors,Active,Chandigarh,2020-02-11,2025-02-09,payal.nair@nair-wealth.com,Insurance Planning
+INA000003033,Ramesh Verma,Verma Wealth Advisors,Cancelled,Varanasi,2021-03-26,2026-03-25,ramesh.verma@verma-wealth.com,Insurance Planning
+INA000003034,Rohini Pillai,Pillai Wealth Advisors,Active,Kolkata,2019-02-25,2024-02-24,rohini.pillai@pillai-wealth.com,Derivatives
+INA000003035,Reema Pillai,Pillai Wealth Advisors,Active,Bangalore,2018-02-19,2023-02-18,reema.pillai@pillai-wealth.com,Derivatives
+INA000003036,Nisha Desai,Desai Wealth Advisors,Active,Patna,2019-07-13,2024-07-11,nisha.desai@desai-wealth.com,Insurance Planning
+INA000003037,Naveen Bhatt,Bhatt Wealth Advisors,Active,Mumbai,2018-08-05,2023-08-04,naveen.bhatt@bhatt-wealth.com,Retirement Planning
+INA000003038,Rohini Yadav,Yadav Wealth Advisors,Active,Delhi,2018-10-18,2023-10-17,rohini.yadav@yadav-wealth.com,Real Estate Investment
+INA000003039,Rohini Verma,Verma Wealth Advisors,Active,Hyderabad,2019-08-09,2024-08-07,rohini.verma@verma-wealth.com,Mutual Funds
+INA000003040,Rohini Iyer,Iyer Wealth Advisors,Active,Mumbai,2020-02-29,2025-02-27,rohini.iyer@iyer-wealth.com,Mutual Funds
+INA000003041,Harsh Gupta,Gupta Wealth Advisors,Active,Bhopal,2022-12-04,2027-12-03,harsh.gupta@gupta-wealth.com,Mutual Funds
+INA000003042,Sameer Nair,Nair Wealth Advisors,Active,Pune,2022-01-05,2027-01-04,sameer.nair@nair-wealth.com,Tax Planning
+INA000003043,Tanvi Kumar,Kumar Wealth Advisors,Cancelled,Chennai,2023-03-02,2028-02-29,tanvi.kumar@kumar-wealth.com,Derivatives
+INA000003044,Ramesh Kumar,Kumar Wealth Advisors,Active,Patna,2023-04-14,2028-04-12,ramesh.kumar@kumar-wealth.com,Real Estate Investment
+INA000003045,Deepika Sharma,Sharma Wealth Advisors,Active,Nagpur,2020-06-17,2025-06-16,deepika.sharma@sharma-wealth.com,Retirement Planning
+INA000003046,Nisha Yadav,Yadav Wealth Advisors,Suspended,Hyderabad,2020-09-24,2025-09-23,nisha.yadav@yadav-wealth.com,Insurance Planning
+INA000003047,Abhishek Kumar,Kumar Wealth Advisors,Active,Kolkata,2019-09-01,2024-08-30,abhishek.kumar@kumar-wealth.com,Derivatives
+INA000003048,Sonal Bansal,Bansal Wealth Advisors,Active,Ranchi,2020-09-25,2025-09-24,sonal.bansal@bansal-wealth.com,Portfolio Management
+INA000003049,Naveen Patel,Patel Wealth Advisors,Active,Bhopal,2021-09-21,2026-09-20,naveen.patel@patel-wealth.com,Mutual Funds
+INA000003050,Swati Pandey,Pandey Wealth Advisors,Suspended,Chennai,2018-01-28,2023-01-27,swati.pandey@pandey-wealth.com,Mutual Funds
+INA000003051,Anjali Iyer,Iyer Wealth Advisors,Active,Delhi,2019-04-25,2024-04-23,anjali.iyer@iyer-wealth.com,Portfolio Management
+INA000003052,Anjali Verma,Verma Wealth Advisors,Active,Ahmedabad,2018-11-12,2023-11-11,anjali.verma@verma-wealth.com,Retirement Planning
+INA000003053,Alok Yadav,Yadav Wealth Advisors,Active,Ranchi,2019-04-17,2024-04-15,alok.yadav@yadav-wealth.com,Derivatives
+INA000003054,Gaurav Pillai,Pillai Wealth Advisors,Active,Nagpur,2022-09-16,2027-09-15,gaurav.pillai@pillai-wealth.com,Derivatives
+INA000003055,Sameer Verma,Verma Wealth Advisors,Active,Hyderabad,2018-03-30,2023-03-29,sameer.verma@verma-wealth.com,Mutual Funds
+INA000003056,Karthik Patel,Patel Wealth Advisors,Active,Lucknow,2018-06-06,2023-06-05,karthik.patel@patel-wealth.com,Portfolio Management
+INA000003057,Payal Verma,Verma Wealth Advisors,Cancelled,Surat,2021-07-15,2026-07-14,payal.verma@verma-wealth.com,Portfolio Management
+INA000003058,Swati Agarwal,Agarwal Wealth Advisors,Active,Nagpur,2020-10-21,2025-10-20,swati.agarwal@agarwal-wealth.com,Derivatives
+INA000003059,Reema Nair,Nair Wealth Advisors,Active,Pune,2023-05-08,2028-05-06,reema.nair@nair-wealth.com,Retirement Planning
+INA000003060,Swati Sharma,Sharma Wealth Advisors,Active,Ranchi,2022-08-15,2027-08-14,swati.sharma@sharma-wealth.com,Equity Research
+INA000003061,Alok Yadav,Yadav Wealth Advisors,Active,Lucknow,2023-05-03,2028-05-01,alok.yadav@yadav-wealth.com,Portfolio Management
+INA000003062,Sonal Khanna,Khanna Wealth Advisors,Active,Indore,2022-03-12,2027-03-11,sonal.khanna@khanna-wealth.com,Equity Research
+INA000003063,Reema Agarwal,Agarwal Wealth Advisors,Active,Chennai,2022-09-19,2027-09-18,reema.agarwal@agarwal-wealth.com,Equity Research
+INA000003064,Harsh Gupta,Gupta Wealth Advisors,Active,Jaipur,2020-06-17,2025-06-16,harsh.gupta@gupta-wealth.com,Tax Planning
+INA000003065,Nisha Gupta,Gupta Wealth Advisors,Active,Lucknow,2022-06-10,2027-06-09,nisha.gupta@gupta-wealth.com,Derivatives
+INA000003066,Sonal Kumar,Kumar Wealth Advisors,Active,Varanasi,2019-12-01,2024-11-29,sonal.kumar@kumar-wealth.com,Real Estate Investment
+INA000003067,Ramesh Bansal,Bansal Wealth Advisors,Active,Mumbai,2022-01-24,2027-01-23,ramesh.bansal@bansal-wealth.com,Insurance Planning
+INA000003068,Karthik Mehta,Mehta Wealth Advisors,Active,Chandigarh,2018-03-04,2023-03-03,karthik.mehta@mehta-wealth.com,Portfolio Management
+INA000003069,Nisha Kulkarni,Kulkarni Wealth Advisors,Suspended,Hyderabad,2019-11-06,2024-11-04,nisha.kulkarni@kulkarni-wealth.com,Tax Planning
+INA000003070,Anjali Gupta,Gupta Wealth Advisors,Active,Varanasi,2018-04-17,2023-04-16,anjali.gupta@gupta-wealth.com,Insurance Planning
+INA000003071,Tanvi Khanna,Khanna Wealth Advisors,Active,Mumbai,2018-09-08,2023-09-07,tanvi.khanna@khanna-wealth.com,Mutual Funds
+INA000003072,Gaurav Chopra,Chopra Wealth Advisors,Active,Delhi,2020-02-12,2025-02-10,gaurav.chopra@chopra-wealth.com,Retirement Planning
+INA000003073,Deepika Khanna,Khanna Wealth Advisors,Active,Hyderabad,2018-12-18,2023-12-17,deepika.khanna@khanna-wealth.com,Real Estate Investment
+INA000003074,Sneha Pillai,Pillai Wealth Advisors,Suspended,Jaipur,2023-03-06,2028-03-04,sneha.pillai@pillai-wealth.com,Derivatives
+INA000003075,Nisha Agarwal,Agarwal Wealth Advisors,Active,Surat,2018-03-20,2023-03-19,nisha.agarwal@agarwal-wealth.com,Insurance Planning
+INA000003076,Tanvi Verma,Verma Wealth Advisors,Active,Patna,2022-11-03,2027-11-02,tanvi.verma@verma-wealth.com,Tax Planning
+INA000003077,Harsh Joshi,Joshi Wealth Advisors,Active,Hyderabad,2022-10-23,2027-10-22,harsh.joshi@joshi-wealth.com,Equity Research
+INA000003078,Payal Sharma,Sharma Wealth Advisors,Active,Bangalore,2020-09-09,2025-09-08,payal.sharma@sharma-wealth.com,Derivatives
+INA000003079,Deepika Yadav,Yadav Wealth Advisors,Active,Hyderabad,2018-07-03,2023-07-02,deepika.yadav@yadav-wealth.com,Tax Planning
+INA000003080,Sameer Kumar,Kumar Wealth Advisors,Active,Pune,2019-04-03,2024-04-01,sameer.kumar@kumar-wealth.com,Retirement Planning
+INA000003081,Tanvi Kumar,Kumar Wealth Advisors,Suspended,Nagpur,2023-04-01,2028-03-30,tanvi.kumar@kumar-wealth.com,Retirement Planning
+INA000003082,Jyoti Pandey,Pandey Wealth Advisors,Active,Surat,2021-08-31,2026-08-30,jyoti.pandey@pandey-wealth.com,Portfolio Management
+INA000003083,Sneha Sharma,Sharma Wealth Advisors,Active,Ahmedabad,2022-07-03,2027-07-02,sneha.sharma@sharma-wealth.com,Real Estate Investment
+INA000003084,Tanvi Kumar,Kumar Wealth Advisors,Active,Surat,2020-03-21,2025-03-20,tanvi.kumar@kumar-wealth.com,Real Estate Investment
+INA000003085,Naveen Patel,Patel Wealth Advisors,Cancelled,Pune,2018-08-03,2023-08-02,naveen.patel@patel-wealth.com,Retirement Planning
+INA000003086,Gaurav Mehta,Mehta Wealth Advisors,Active,Bangalore,2018-03-18,2023-03-17,gaurav.mehta@mehta-wealth.com,Portfolio Management
+INA000003087,Sameer Nair,Nair Wealth Advisors,Active,Surat,2021-01-19,2026-01-18,sameer.nair@nair-wealth.com,Real Estate Investment
+INA000003088,Deepika Bansal,Bansal Wealth Advisors,Active,Varanasi,2023-04-06,2028-04-04,deepika.bansal@bansal-wealth.com,Mutual Funds
+INA000003089,Gaurav Agarwal,Agarwal Wealth Advisors,Active,Indore,2019-03-26,2024-03-24,gaurav.agarwal@agarwal-wealth.com,Portfolio Management
+INA000003090,Naveen Joshi,Joshi Wealth Advisors,Active,Hyderabad,2018-04-02,2023-04-01,naveen.joshi@joshi-wealth.com,Insurance Planning
+INA000003091,Nisha Sharma,Sharma Wealth Advisors,Active,Bangalore,2023-05-24,2028-05-22,nisha.sharma@sharma-wealth.com,Equity Research
+INA000003092,Vishal Joshi,Joshi Wealth Advisors,Active,Bhopal,2018-04-08,2023-04-07,vishal.joshi@joshi-wealth.com,Real Estate Investment
+INA000003093,Karthik Patel,Patel Wealth Advisors,Active,Ahmedabad,2021-08-02,2026-08-01,karthik.patel@patel-wealth.com,Retirement Planning
+INA000003094,Gaurav Joshi,Joshi Wealth Advisors,Active,Chandigarh,2018-09-17,2023-09-16,gaurav.joshi@joshi-wealth.com,Tax Planning
+INA000003095,Payal Kulkarni,Kulkarni Wealth Advisors,Active,Lucknow,2021-05-20,2026-05-19,payal.kulkarni@kulkarni-wealth.com,Mutual Funds
+INA000003096,Alok Gupta,Gupta Wealth Advisors,Active,Patna,2021-12-09,2026-12-08,alok.gupta@gupta-wealth.com,Derivatives
+INA000003097,Anjali Kulkarni,Kulkarni Wealth Advisors,Active,Jaipur,2018-07-28,2023-07-27,anjali.kulkarni@kulkarni-wealth.com,Portfolio Management
+INA000003098,Swati Patel,Patel Wealth Advisors,Active,Bhopal,2021-09-08,2026-09-07,swati.patel@patel-wealth.com,Equity Research
+INA000003099,Anjali Mehta,Mehta Wealth Advisors,Active,Delhi,2019-09-10,2024-09-08,anjali.mehta@mehta-wealth.com,Retirement Planning
+INA000003100,Tanvi Iyer,Iyer Wealth Advisors,Cancelled,Delhi,2018-10-20,2023-10-19,tanvi.iyer@iyer-wealth.com,Derivatives
+INA000003101,Sonal Pillai,Pillai Wealth Advisors,Active,Ahmedabad,2018-02-26,2023-02-25,sonal.pillai@pillai-wealth.com,Real Estate Investment
+INA000003102,Swati Bhatt,Bhatt Wealth Advisors,Active,Kanpur,2018-08-04,2023-08-03,swati.bhatt@bhatt-wealth.com,Tax Planning
+INA000003103,Rohini Joshi,Joshi Wealth Advisors,Active,Delhi,2020-07-03,2025-07-02,rohini.joshi@joshi-wealth.com,Mutual Funds
+INA000003104,Jyoti Reddy,Reddy Wealth Advisors,Active,Pune,2021-03-02,2026-03-01,jyoti.reddy@reddy-wealth.com,Derivatives
+INA000003105,Sameer Verma,Verma Wealth Advisors,Active,Delhi,2021-08-30,2026-08-29,sameer.verma@verma-wealth.com,Insurance Planning
+INA000003106,Reema Iyer,Iyer Wealth Advisors,Active,Chennai,2020-07-29,2025-07-28,reema.iyer@iyer-wealth.com,Tax Planning
+INA000003107,Gaurav Gupta,Gupta Wealth Advisors,Active,Nagpur,2019-12-12,2024-12-10,gaurav.gupta@gupta-wealth.com,Insurance Planning
+INA000003108,Ramesh Desai,Desai Wealth Advisors,Suspended,Bhopal,2019-03-07,2024-03-05,ramesh.desai@desai-wealth.com,Insurance Planning
+INA000003109,Karthik Khanna,Khanna Wealth Advisors,Active,Ahmedabad,2018-04-22,2023-04-21,karthik.khanna@khanna-wealth.com,Derivatives
+INA000003110,Tanvi Pandey,Pandey Wealth Advisors,Active,Ranchi,2019-02-10,2024-02-09,tanvi.pandey@pandey-wealth.com,Insurance Planning
+INA000003111,Karthik Nair,Nair Wealth Advisors,Active,Indore,2019-11-28,2024-11-26,karthik.nair@nair-wealth.com,Equity Research
+INA000003112,Reema Reddy,Reddy Wealth Advisors,Active,Jaipur,2019-09-19,2024-09-17,reema.reddy@reddy-wealth.com,Insurance Planning
+INA000003113,Karthik Yadav,Yadav Wealth Advisors,Active,Ahmedabad,2021-09-17,2026-09-16,karthik.yadav@yadav-wealth.com,Portfolio Management
+INA000003114,Jyoti Iyer,Iyer Wealth Advisors,Active,Nagpur,2018-11-20,2023-11-19,jyoti.iyer@iyer-wealth.com,Retirement Planning
+INA000003115,Deepika Agarwal,Agarwal Wealth Advisors,Active,Bangalore,2018-02-23,2023-02-22,deepika.agarwal@agarwal-wealth.com,Mutual Funds
+INA000003116,Nisha Patel,Patel Wealth Advisors,Active,Indore,2021-06-14,2026-06-13,nisha.patel@patel-wealth.com,Real Estate Investment
+INA000003117,Ramesh Pandey,Pandey Wealth Advisors,Active,Surat,2018-05-12,2023-05-11,ramesh.pandey@pandey-wealth.com,Portfolio Management
+INA000003118,Naveen Kumar,Kumar Wealth Advisors,Active,Hyderabad,2022-12-01,2027-11-30,naveen.kumar@kumar-wealth.com,Tax Planning
+INA000003119,Sonal Verma,Verma Wealth Advisors,Active,Ranchi,2018-06-17,2023-06-16,sonal.verma@verma-wealth.com,Real Estate Investment
+INA000003120,Alok Verma,Verma Wealth Advisors,Active,Delhi,2018-08-11,2023-08-10,alok.verma@verma-wealth.com,Equity Research
+INA000003121,Reema Chopra,Chopra Wealth Advisors,Active,Mumbai,2021-04-29,2026-04-28,reema.chopra@chopra-wealth.com,Retirement Planning
+INA000003122,Nisha Mehta,Mehta Wealth Advisors,Active,Delhi,2018-02-12,2023-02-11,nisha.mehta@mehta-wealth.com,Real Estate Investment
+INA000003123,Alok Kulkarni,Kulkarni Wealth Advisors,Suspended,Delhi,2021-10-15,2026-10-14,alok.kulkarni@kulkarni-wealth.com,Insurance Planning
+INA000003124,Alok Iyer,Iyer Wealth Advisors,Active,Mumbai,2019-11-10,2024-11-08,alok.iyer@iyer-wealth.com,Equity Research
+INA000003125,Abhishek Sharma,Sharma Wealth Advisors,Active,Bangalore,2020-11-22,2025-11-21,abhishek.sharma@sharma-wealth.com,Real Estate Investment
+INA000003126,Karthik Yadav,Yadav Wealth Advisors,Active,Indore,2019-10-01,2024-09-29,karthik.yadav@yadav-wealth.com,Mutual Funds
+INA000003127,Naveen Pandey,Pandey Wealth Advisors,Active,Ranchi,2023-03-15,2028-03-13,naveen.pandey@pandey-wealth.com,Insurance Planning
+INA000003128,Karthik Pandey,Pandey Wealth Advisors,Active,Pune,2021-01-22,2026-01-21,karthik.pandey@pandey-wealth.com,Tax Planning
+INA000003129,Vishal Yadav,Yadav Wealth Advisors,Active,Bhopal,2022-05-26,2027-05-25,vishal.yadav@yadav-wealth.com,Portfolio Management
+INA000003130,Sonal Iyer,Iyer Wealth Advisors,Active,Bhopal,2020-10-06,2025-10-05,sonal.iyer@iyer-wealth.com,Tax Planning
+INA000003131,Jyoti Joshi,Joshi Wealth Advisors,Active,Lucknow,2019-11-23,2024-11-21,jyoti.joshi@joshi-wealth.com,Retirement Planning
+INA000003132,Reema Kumar,Kumar Wealth Advisors,Suspended,Nagpur,2018-07-12,2023-07-11,reema.kumar@kumar-wealth.com,Insurance Planning
+INA000003133,Anjali Mehta,Mehta Wealth Advisors,Active,Pune,2019-01-07,2024-01-06,anjali.mehta@mehta-wealth.com,Tax Planning
+INA000003134,Reema Kulkarni,Kulkarni Wealth Advisors,Active,Kolkata,2021-09-15,2026-09-14,reema.kulkarni@kulkarni-wealth.com,Tax Planning
+INA000003135,Reema Gupta,Gupta Wealth Advisors,Active,Chennai,2020-04-02,2025-04-01,reema.gupta@gupta-wealth.com,Mutual Funds
+INA000003136,Sonal Patel,Patel Wealth Advisors,Active,Chennai,2020-11-27,2025-11-26,sonal.patel@patel-wealth.com,Mutual Funds
+INA000003137,Naveen Kumar,Kumar Wealth Advisors,Suspended,Chandigarh,2020-02-19,2025-02-17,naveen.kumar@kumar-wealth.com,Tax Planning
+INA000003138,Jyoti Pillai,Pillai Wealth Advisors,Suspended,Jaipur,2021-07-17,2026-07-16,jyoti.pillai@pillai-wealth.com,Mutual Funds
+INA000003139,Reema Kulkarni,Kulkarni Wealth Advisors,Suspended,Bhopal,2023-05-01,2028-04-29,reema.kulkarni@kulkarni-wealth.com,Equity Research
+INA000003140,Payal Chopra,Chopra Wealth Advisors,Suspended,Bangalore,2021-12-27,2026-12-26,payal.chopra@chopra-wealth.com,Mutual Funds
+INA000003141,Karthik Patel,Patel Wealth Advisors,Active,Nagpur,2018-08-21,2023-08-20,karthik.patel@patel-wealth.com,Tax Planning
+INA000003142,Vishal Bansal,Bansal Wealth Advisors,Active,Chandigarh,2022-07-12,2027-07-11,vishal.bansal@bansal-wealth.com,Mutual Funds
+INA000003143,Reema Yadav,Yadav Wealth Advisors,Active,Varanasi,2019-10-31,2024-10-29,reema.yadav@yadav-wealth.com,Insurance Planning
+INA000003144,Abhishek Desai,Desai Wealth Advisors,Active,Lucknow,2020-05-01,2025-04-30,abhishek.desai@desai-wealth.com,Equity Research
+INA000003145,Sneha Kumar,Kumar Wealth Advisors,Active,Ahmedabad,2020-07-10,2025-07-09,sneha.kumar@kumar-wealth.com,Retirement Planning
+INA000003146,Payal Chopra,Chopra Wealth Advisors,Suspended,Varanasi,2018-05-31,2023-05-30,payal.chopra@chopra-wealth.com,Equity Research
+INA000003147,Sonal Kumar,Kumar Wealth Advisors,Cancelled,Mumbai,2020-06-12,2025-06-11,sonal.kumar@kumar-wealth.com,Tax Planning
+INA000003148,Swati Kulkarni,Kulkarni Wealth Advisors,Suspended,Ahmedabad,2021-05-29,2026-05-28,swati.kulkarni@kulkarni-wealth.com,Insurance Planning
+INA000003149,Gaurav Iyer,Iyer Wealth Advisors,Active,Kanpur,2022-09-23,2027-09-22,gaurav.iyer@iyer-wealth.com,Tax Planning
+INA000003150,Jyoti Kulkarni,Kulkarni Wealth Advisors,Active,Chandigarh,2021-02-27,2026-02-26,jyoti.kulkarni@kulkarni-wealth.com,Derivatives
+INA000003151,Sonal Pillai,Pillai Wealth Advisors,Suspended,Kolkata,2020-09-09,2025-09-08,sonal.pillai@pillai-wealth.com,Equity Research
+INA000003152,Deepika Verma,Verma Wealth Advisors,Active,Nagpur,2020-07-07,2025-07-06,deepika.verma@verma-wealth.com,Tax Planning
+INA000003153,Payal Bansal,Bansal Wealth Advisors,Active,Kanpur,2018-10-28,2023-10-27,payal.bansal@bansal-wealth.com,Tax Planning
+INA000003154,Sameer Nair,Nair Wealth Advisors,Active,Delhi,2021-08-10,2026-08-09,sameer.nair@nair-wealth.com,Equity Research
+INA000003155,Naveen Desai,Desai Wealth Advisors,Active,Mumbai,2020-09-25,2025-09-24,naveen.desai@desai-wealth.com,Mutual Funds
+INA000003156,Sneha Agarwal,Agarwal Wealth Advisors,Active,Lucknow,2023-01-12,2028-01-11,sneha.agarwal@agarwal-wealth.com,Derivatives
+INA000003157,Deepika Sharma,Sharma Wealth Advisors,Active,Ahmedabad,2022-07-17,2027-07-16,deepika.sharma@sharma-wealth.com,Retirement Planning
+INA000003158,Rohini Pillai,Pillai Wealth Advisors,Active,Indore,2020-12-20,2025-12-19,rohini.pillai@pillai-wealth.com,Retirement Planning
+INA000003159,Sameer Desai,Desai Wealth Advisors,Suspended,Delhi,2019-03-25,2024-03-23,sameer.desai@desai-wealth.com,Derivatives
+INA000003160,Harsh Gupta,Gupta Wealth Advisors,Cancelled,Patna,2022-06-26,2027-06-25,harsh.gupta@gupta-wealth.com,Real Estate Investment
+INA000003161,Rohini Iyer,Iyer Wealth Advisors,Suspended,Chandigarh,2023-02-14,2028-02-13,rohini.iyer@iyer-wealth.com,Derivatives
+INA000003162,Swati Reddy,Reddy Wealth Advisors,Cancelled,Bangalore,2020-06-07,2025-06-06,swati.reddy@reddy-wealth.com,Insurance Planning
+INA000003163,Swati Khanna,Khanna Wealth Advisors,Active,Chandigarh,2021-08-21,2026-08-20,swati.khanna@khanna-wealth.com,Portfolio Management
+INA000003164,Vishal Patel,Patel Wealth Advisors,Active,Kanpur,2023-04-17,2028-04-15,vishal.patel@patel-wealth.com,Retirement Planning
+INA000003165,Naveen Pandey,Pandey Wealth Advisors,Active,Varanasi,2021-11-05,2026-11-04,naveen.pandey@pandey-wealth.com,Portfolio Management
+INA000003166,Harsh Mehta,Mehta Wealth Advisors,Active,Bhopal,2023-03-04,2028-03-02,harsh.mehta@mehta-wealth.com,Derivatives
+INA000003167,Vishal Khanna,Khanna Wealth Advisors,Active,Ranchi,2018-01-25,2023-01-24,vishal.khanna@khanna-wealth.com,Real Estate Investment
+INA000003168,Abhishek Joshi,Joshi Wealth Advisors,Cancelled,Ranchi,2018-09-19,2023-09-18,abhishek.joshi@joshi-wealth.com,Portfolio Management
+INA000003169,Payal Kulkarni,Kulkarni Wealth Advisors,Active,Mumbai,2019-10-05,2024-10-03,payal.kulkarni@kulkarni-wealth.com,Equity Research
+INA000003170,Abhishek Pandey,Pandey Wealth Advisors,Active,Lucknow,2019-08-02,2024-07-31,abhishek.pandey@pandey-wealth.com,Real Estate Investment
+INA000003171,Alok Pandey,Pandey Wealth Advisors,Suspended,Ahmedabad,2020-04-18,2025-04-17,alok.pandey@pandey-wealth.com,Insurance Planning
+INA000003172,Rohini Verma,Verma Wealth Advisors,Active,Hyderabad,2022-08-09,2027-08-08,rohini.verma@verma-wealth.com,Insurance Planning
+INA000003173,Karthik Pandey,Pandey Wealth Advisors,Active,Patna,2021-11-16,2026-11-15,karthik.pandey@pandey-wealth.com,Tax Planning
+INA000003174,Deepika Mehta,Mehta Wealth Advisors,Suspended,Ranchi,2019-04-26,2024-04-24,deepika.mehta@mehta-wealth.com,Equity Research
+INA000003175,Gaurav Bhatt,Bhatt Wealth Advisors,Active,Ranchi,2019-04-16,2024-04-14,gaurav.bhatt@bhatt-wealth.com,Insurance Planning
+INA000003176,Nisha Kumar,Kumar Wealth Advisors,Active,Hyderabad,2021-04-16,2026-04-15,nisha.kumar@kumar-wealth.com,Tax Planning
+INA000003177,Payal Sharma,Sharma Wealth Advisors,Active,Kanpur,2022-05-12,2027-05-11,payal.sharma@sharma-wealth.com,Derivatives
+INA000003178,Payal Mehta,Mehta Wealth Advisors,Active,Varanasi,2020-07-03,2025-07-02,payal.mehta@mehta-wealth.com,Retirement Planning
+INA000003179,Jyoti Pillai,Pillai Wealth Advisors,Active,Jaipur,2022-04-29,2027-04-28,jyoti.pillai@pillai-wealth.com,Real Estate Investment
+INA000003180,Swati Bhatt,Bhatt Wealth Advisors,Active,Ahmedabad,2022-10-10,2027-10-09,swati.bhatt@bhatt-wealth.com,Retirement Planning
+INA000003181,Tanvi Verma,Verma Wealth Advisors,Active,Ahmedabad,2021-02-04,2026-02-03,tanvi.verma@verma-wealth.com,Tax Planning
+INA000003182,Ramesh Khanna,Khanna Wealth Advisors,Active,Varanasi,2020-09-03,2025-09-02,ramesh.khanna@khanna-wealth.com,Derivatives
+INA000003183,Tanvi Pandey,Pandey Wealth Advisors,Active,Jaipur,2018-06-17,2023-06-16,tanvi.pandey@pandey-wealth.com,Retirement Planning
+INA000003184,Deepika Agarwal,Agarwal Wealth Advisors,Active,Delhi,2018-07-17,2023-07-16,deepika.agarwal@agarwal-wealth.com,Portfolio Management
+INA000003185,Swati Bansal,Bansal Wealth Advisors,Active,Mumbai,2023-04-22,2028-04-20,swati.bansal@bansal-wealth.com,Equity Research
+INA000003186,Tanvi Khanna,Khanna Wealth Advisors,Active,Mumbai,2020-06-12,2025-06-11,tanvi.khanna@khanna-wealth.com,Portfolio Management
+INA000003187,Abhishek Kulkarni,Kulkarni Wealth Advisors,Active,Patna,2021-07-24,2026-07-23,abhishek.kulkarni@kulkarni-wealth.com,Insurance Planning
+INA000003188,Sameer Patel,Patel Wealth Advisors,Active,Bhopal,2020-11-15,2025-11-14,sameer.patel@patel-wealth.com,Mutual Funds
+INA000003189,Nisha Iyer,Iyer Wealth Advisors,Active,Surat,2019-04-28,2024-04-26,nisha.iyer@iyer-wealth.com,Derivatives
+INA000003190,Deepika Joshi,Joshi Wealth Advisors,Active,Ranchi,2018-03-27,2023-03-26,deepika.joshi@joshi-wealth.com,Retirement Planning
+INA000003191,Gaurav Patel,Patel Wealth Advisors,Active,Mumbai,2019-03-11,2024-03-09,gaurav.patel@patel-wealth.com,Derivatives
+INA000003192,Vishal Chopra,Chopra Wealth Advisors,Active,Kanpur,2018-06-05,2023-06-04,vishal.chopra@chopra-wealth.com,Real Estate Investment
+INA000003193,Rohini Pandey,Pandey Wealth Advisors,Cancelled,Mumbai,2018-01-03,2023-01-02,rohini.pandey@pandey-wealth.com,Retirement Planning
+INA000003194,Payal Khanna,Khanna Wealth Advisors,Active,Patna,2022-08-22,2027-08-21,payal.khanna@khanna-wealth.com,Tax Planning
+INA000003195,Abhishek Bhatt,Bhatt Wealth Advisors,Active,Varanasi,2020-02-16,2025-02-14,abhishek.bhatt@bhatt-wealth.com,Equity Research
+INA000003196,Sneha Kumar,Kumar Wealth Advisors,Active,Kolkata,2022-01-19,2027-01-18,sneha.kumar@kumar-wealth.com,Tax Planning
+INA000003197,Sameer Kulkarni,Kulkarni Wealth Advisors,Active,Bhopal,2021-01-20,2026-01-19,sameer.kulkarni@kulkarni-wealth.com,Tax Planning
+INA000003198,Reema Kulkarni,Kulkarni Wealth Advisors,Active,Bhopal,2018-04-08,2023-04-07,reema.kulkarni@kulkarni-wealth.com,Tax Planning
+INA000003199,Jyoti Khanna,Khanna Wealth Advisors,Active,Ahmedabad,2021-02-21,2026-02-20,jyoti.khanna@khanna-wealth.com,Insurance Planning
+INA000003200,Nisha Desai,Desai Wealth Advisors,Active,Mumbai,2018-08-23,2023-08-22,nisha.desai@desai-wealth.com,Mutual Funds
+INA000003201,Deepika Yadav,Yadav Wealth Advisors,Active,Patna,2019-09-19,2024-09-17,deepika.yadav@yadav-wealth.com,Real Estate Investment
+INA000003202,Deepika Chopra,Chopra Wealth Advisors,Active,Indore,2018-11-30,2023-11-29,deepika.chopra@chopra-wealth.com,Insurance Planning
+INA000003203,Swati Kulkarni,Kulkarni Wealth Advisors,Active,Chandigarh,2018-02-11,2023-02-10,swati.kulkarni@kulkarni-wealth.com,Insurance Planning
+INA000003204,Nisha Khanna,Khanna Wealth Advisors,Active,Jaipur,2022-01-18,2027-01-17,nisha.khanna@khanna-wealth.com,Mutual Funds
+INA000003205,Tanvi Nair,Nair Wealth Advisors,Active,Bhopal,2019-08-06,2024-08-04,tanvi.nair@nair-wealth.com,Mutual Funds
+INA000003206,Sameer Yadav,Yadav Wealth Advisors,Active,Mumbai,2021-02-06,2026-02-05,sameer.yadav@yadav-wealth.com,Real Estate Investment
+INA000003207,Reema Verma,Verma Wealth Advisors,Active,Ahmedabad,2021-05-15,2026-05-14,reema.verma@verma-wealth.com,Portfolio Management
+INA000003208,Alok Kulkarni,Kulkarni Wealth Advisors,Active,Pune,2019-11-10,2024-11-08,alok.kulkarni@kulkarni-wealth.com,Tax Planning
+INA000003209,Karthik Yadav,Yadav Wealth Advisors,Active,Varanasi,2023-06-10,2028-06-08,karthik.yadav@yadav-wealth.com,Insurance Planning
+INA000003210,Rohini Bansal,Bansal Wealth Advisors,Active,Mumbai,2018-08-29,2023-08-28,rohini.bansal@bansal-wealth.com,Derivatives
+INA000003211,Sneha Bhatt,Bhatt Wealth Advisors,Active,Jaipur,2021-01-29,2026-01-28,sneha.bhatt@bhatt-wealth.com,Real Estate Investment
+INA000003212,Reema Iyer,Iyer Wealth Advisors,Active,Indore,2020-02-23,2025-02-21,reema.iyer@iyer-wealth.com,Derivatives
+INA000003213,Rohini Pillai,Pillai Wealth Advisors,Active,Varanasi,2021-08-23,2026-08-22,rohini.pillai@pillai-wealth.com,Tax Planning
+INA000003214,Naveen Joshi,Joshi Wealth Advisors,Active,Surat,2022-06-22,2027-06-21,naveen.joshi@joshi-wealth.com,Portfolio Management
+INA000003215,Abhishek Bhatt,Bhatt Wealth Advisors,Active,Varanasi,2021-12-15,2026-12-14,abhishek.bhatt@bhatt-wealth.com,Portfolio Management
+INA000003216,Karthik Gupta,Gupta Wealth Advisors,Suspended,Jaipur,2020-12-22,2025-12-21,karthik.gupta@gupta-wealth.com,Derivatives
+INA000003217,Sneha Pandey,Pandey Wealth Advisors,Active,Bangalore,2020-08-03,2025-08-02,sneha.pandey@pandey-wealth.com,Mutual Funds
+INA000003218,Sameer Pillai,Pillai Wealth Advisors,Suspended,Ahmedabad,2018-07-25,2023-07-24,sameer.pillai@pillai-wealth.com,Retirement Planning
+INA000003219,Rohini Verma,Verma Wealth Advisors,Active,Pune,2021-03-30,2026-03-29,rohini.verma@verma-wealth.com,Retirement Planning
+INA000003220,Jyoti Agarwal,Agarwal Wealth Advisors,Suspended,Surat,2018-01-18,2023-01-17,jyoti.agarwal@agarwal-wealth.com,Insurance Planning
+INA000003221,Sneha Bhatt,Bhatt Wealth Advisors,Active,Ahmedabad,2022-09-12,2027-09-11,sneha.bhatt@bhatt-wealth.com,Derivatives
+INA000003222,Naveen Mehta,Mehta Wealth Advisors,Active,Pune,2023-03-26,2028-03-24,naveen.mehta@mehta-wealth.com,Portfolio Management
+INA000003223,Sameer Joshi,Joshi Wealth Advisors,Active,Varanasi,2021-12-28,2026-12-27,sameer.joshi@joshi-wealth.com,Equity Research
+INA000003224,Gaurav Bhatt,Bhatt Wealth Advisors,Cancelled,Mumbai,2021-12-06,2026-12-05,gaurav.bhatt@bhatt-wealth.com,Mutual Funds
+INA000003225,Tanvi Nair,Nair Wealth Advisors,Suspended,Indore,2021-09-25,2026-09-24,tanvi.nair@nair-wealth.com,Derivatives
+INA000003226,Rohini Desai,Desai Wealth Advisors,Active,Chandigarh,2021-09-12,2026-09-11,rohini.desai@desai-wealth.com,Insurance Planning
+INA000003227,Deepika Sharma,Sharma Wealth Advisors,Suspended,Ranchi,2020-05-22,2025-05-21,deepika.sharma@sharma-wealth.com,Tax Planning
+INA000003228,Deepika Reddy,Reddy Wealth Advisors,Active,Varanasi,2022-11-05,2027-11-04,deepika.reddy@reddy-wealth.com,Tax Planning
+INA000003229,Abhishek Sharma,Sharma Wealth Advisors,Active,Kolkata,2023-05-09,2028-05-07,abhishek.sharma@sharma-wealth.com,Insurance Planning
+INA000003230,Rohini Bansal,Bansal Wealth Advisors,Active,Kanpur,2018-08-30,2023-08-29,rohini.bansal@bansal-wealth.com,Real Estate Investment
+INA000003231,Abhishek Bhatt,Bhatt Wealth Advisors,Active,Ranchi,2020-04-28,2025-04-27,abhishek.bhatt@bhatt-wealth.com,Derivatives
+INA000003232,Vishal Reddy,Reddy Wealth Advisors,Active,Chennai,2022-01-31,2027-01-30,vishal.reddy@reddy-wealth.com,Equity Research
+INA000003233,Jyoti Chopra,Chopra Wealth Advisors,Active,Ranchi,2022-01-19,2027-01-18,jyoti.chopra@chopra-wealth.com,Tax Planning
+INA000003234,Jyoti Desai,Desai Wealth Advisors,Active,Surat,2022-07-22,2027-07-21,jyoti.desai@desai-wealth.com,Insurance Planning
+INA000003235,Karthik Chopra,Chopra Wealth Advisors,Active,Delhi,2023-02-28,2028-02-27,karthik.chopra@chopra-wealth.com,Derivatives
+INA000003236,Swati Kulkarni,Kulkarni Wealth Advisors,Active,Delhi,2021-04-19,2026-04-18,swati.kulkarni@kulkarni-wealth.com,Real Estate Investment
+INA000003237,Abhishek Yadav,Yadav Wealth Advisors,Active,Kanpur,2023-04-19,2028-04-17,abhishek.yadav@yadav-wealth.com,Equity Research
+INA000003238,Swati Patel,Patel Wealth Advisors,Active,Lucknow,2019-12-02,2024-11-30,swati.patel@patel-wealth.com,Equity Research
+INA000003239,Payal Joshi,Joshi Wealth Advisors,Active,Chandigarh,2021-02-13,2026-02-12,payal.joshi@joshi-wealth.com,Portfolio Management
+INA000003240,Deepika Pandey,Pandey Wealth Advisors,Active,Nagpur,2019-05-20,2024-05-18,deepika.pandey@pandey-wealth.com,Derivatives
+INA000003241,Rohini Kulkarni,Kulkarni Wealth Advisors,Active,Bangalore,2020-04-25,2025-04-24,rohini.kulkarni@kulkarni-wealth.com,Equity Research
+INA000003242,Ramesh Kulkarni,Kulkarni Wealth Advisors,Active,Kanpur,2021-05-10,2026-05-09,ramesh.kulkarni@kulkarni-wealth.com,Derivatives
+INA000003243,Vishal Chopra,Chopra Wealth Advisors,Active,Hyderabad,2018-07-16,2023-07-15,vishal.chopra@chopra-wealth.com,Mutual Funds
+INA000003244,Deepika Kumar,Kumar Wealth Advisors,Active,Mumbai,2023-03-31,2028-03-29,deepika.kumar@kumar-wealth.com,Tax Planning
+INA000003245,Rohini Bansal,Bansal Wealth Advisors,Active,Varanasi,2021-11-24,2026-11-23,rohini.bansal@bansal-wealth.com,Real Estate Investment
+INA000003246,Ramesh Iyer,Iyer Wealth Advisors,Active,Varanasi,2023-05-15,2028-05-13,ramesh.iyer@iyer-wealth.com,Mutual Funds
+INA000003247,Payal Verma,Verma Wealth Advisors,Suspended,Hyderabad,2023-04-16,2028-04-14,payal.verma@verma-wealth.com,Portfolio Management
+INA000003248,Karthik Kulkarni,Kulkarni Wealth Advisors,Active,Pune,2021-08-22,2026-08-21,karthik.kulkarni@kulkarni-wealth.com,Equity Research
+INA000003249,Payal Agarwal,Agarwal Wealth Advisors,Active,Bangalore,2022-11-20,2027-11-19,payal.agarwal@agarwal-wealth.com,Portfolio Management
+INA000003250,Naveen Patel,Patel Wealth Advisors,Active,Kanpur,2022-07-18,2027-07-17,naveen.patel@patel-wealth.com,Retirement Planning
+INA000003251,Ramesh Yadav,Yadav Wealth Advisors,Active,Varanasi,2023-06-20,2028-06-18,ramesh.yadav@yadav-wealth.com,Mutual Funds
+INA000003252,Sameer Patel,Patel Wealth Advisors,Active,Kanpur,2022-09-14,2027-09-13,sameer.patel@patel-wealth.com,Real Estate Investment
+INA000003253,Naveen Sharma,Sharma Wealth Advisors,Active,Delhi,2020-06-07,2025-06-06,naveen.sharma@sharma-wealth.com,Retirement Planning
+INA000003254,Jyoti Pillai,Pillai Wealth Advisors,Active,Surat,2022-11-19,2027-11-18,jyoti.pillai@pillai-wealth.com,Tax Planning
+INA000003255,Harsh Chopra,Chopra Wealth Advisors,Active,Hyderabad,2021-12-13,2026-12-12,harsh.chopra@chopra-wealth.com,Derivatives
+INA000003256,Sneha Kulkarni,Kulkarni Wealth Advisors,Active,Kolkata,2019-08-09,2024-08-07,sneha.kulkarni@kulkarni-wealth.com,Derivatives
+INA000003257,Sonal Nair,Nair Wealth Advisors,Active,Kolkata,2020-01-05,2025-01-03,sonal.nair@nair-wealth.com,Portfolio Management
+INA000003258,Payal Kumar,Kumar Wealth Advisors,Suspended,Kanpur,2018-09-06,2023-09-05,payal.kumar@kumar-wealth.com,Portfolio Management
+INA000003259,Jyoti Bansal,Bansal Wealth Advisors,Active,Chandigarh,2023-05-28,2028-05-26,jyoti.bansal@bansal-wealth.com,Tax Planning
+INA000003260,Alok Patel,Patel Wealth Advisors,Active,Lucknow,2022-10-31,2027-10-30,alok.patel@patel-wealth.com,Derivatives
+INA000003261,Vishal Verma,Verma Wealth Advisors,Active,Hyderabad,2018-08-12,2023-08-11,vishal.verma@verma-wealth.com,Equity Research
+INA000003262,Ramesh Agarwal,Agarwal Wealth Advisors,Cancelled,Mumbai,2018-06-03,2023-06-02,ramesh.agarwal@agarwal-wealth.com,Portfolio Management
+INA000003263,Anjali Khanna,Khanna Wealth Advisors,Active,Hyderabad,2018-04-06,2023-04-05,anjali.khanna@khanna-wealth.com,Derivatives
+INA000003264,Tanvi Bhatt,Bhatt Wealth Advisors,Cancelled,Ahmedabad,2018-02-03,2023-02-02,tanvi.bhatt@bhatt-wealth.com,Tax Planning
+INA000003265,Sameer Pillai,Pillai Wealth Advisors,Active,Ranchi,2019-07-06,2024-07-04,sameer.pillai@pillai-wealth.com,Retirement Planning
+INA000003266,Sameer Kulkarni,Kulkarni Wealth Advisors,Active,Mumbai,2023-04-09,2028-04-07,sameer.kulkarni@kulkarni-wealth.com,Derivatives
+INA000003267,Tanvi Mehta,Mehta Wealth Advisors,Active,Kolkata,2020-07-13,2025-07-12,tanvi.mehta@mehta-wealth.com,Insurance Planning
+INA000003268,Nisha Verma,Verma Wealth Advisors,Suspended,Kanpur,2018-02-17,2023-02-16,nisha.verma@verma-wealth.com,Real Estate Investment
+INA000003269,Naveen Iyer,Iyer Wealth Advisors,Active,Bangalore,2018-05-27,2023-05-26,naveen.iyer@iyer-wealth.com,Equity Research
+INA000003270,Karthik Yadav,Yadav Wealth Advisors,Suspended,Indore,2021-04-25,2026-04-24,karthik.yadav@yadav-wealth.com,Insurance Planning
+INA000003271,Deepika Kumar,Kumar Wealth Advisors,Active,Lucknow,2020-01-05,2025-01-03,deepika.kumar@kumar-wealth.com,Mutual Funds
+INA000003272,Deepika Gupta,Gupta Wealth Advisors,Suspended,Kolkata,2018-01-28,2023-01-27,deepika.gupta@gupta-wealth.com,Equity Research
+INA000003273,Sameer Reddy,Reddy Wealth Advisors,Active,Mumbai,2022-09-01,2027-08-31,sameer.reddy@reddy-wealth.com,Insurance Planning
+INA000003274,Anjali Joshi,Joshi Wealth Advisors,Active,Nagpur,2018-12-20,2023-12-19,anjali.joshi@joshi-wealth.com,Tax Planning
+INA000003275,Sameer Khanna,Khanna Wealth Advisors,Active,Nagpur,2018-11-25,2023-11-24,sameer.khanna@khanna-wealth.com,Equity Research
+INA000003276,Nisha Yadav,Yadav Wealth Advisors,Active,Kanpur,2021-07-13,2026-07-12,nisha.yadav@yadav-wealth.com,Insurance Planning
+INA000003277,Sonal Verma,Verma Wealth Advisors,Cancelled,Kanpur,2023-01-20,2028-01-19,sonal.verma@verma-wealth.com,Tax Planning
+INA000003278,Anjali Desai,Desai Wealth Advisors,Active,Bhopal,2020-01-16,2025-01-14,anjali.desai@desai-wealth.com,Tax Planning
+INA000003279,Ramesh Pillai,Pillai Wealth Advisors,Suspended,Ranchi,2020-05-05,2025-05-04,ramesh.pillai@pillai-wealth.com,Real Estate Investment
+INA000003280,Alok Joshi,Joshi Wealth Advisors,Active,Ranchi,2021-03-12,2026-03-11,alok.joshi@joshi-wealth.com,Tax Planning
+INA000003281,Sneha Iyer,Iyer Wealth Advisors,Active,Lucknow,2018-01-31,2023-01-30,sneha.iyer@iyer-wealth.com,Mutual Funds
+INA000003282,Abhishek Patel,Patel Wealth Advisors,Active,Chennai,2020-10-14,2025-10-13,abhishek.patel@patel-wealth.com,Derivatives
+INA000003283,Abhishek Gupta,Gupta Wealth Advisors,Active,Ranchi,2023-02-03,2028-02-02,abhishek.gupta@gupta-wealth.com,Real Estate Investment
+INA000003284,Gaurav Gupta,Gupta Wealth Advisors,Active,Nagpur,2022-04-11,2027-04-10,gaurav.gupta@gupta-wealth.com,Retirement Planning
+INA000003285,Vishal Mehta,Mehta Wealth Advisors,Active,Jaipur,2019-10-26,2024-10-24,vishal.mehta@mehta-wealth.com,Tax Planning
+INA000003286,Gaurav Iyer,Iyer Wealth Advisors,Active,Bhopal,2019-11-16,2024-11-14,gaurav.iyer@iyer-wealth.com,Retirement Planning
+INA000003287,Naveen Khanna,Khanna Wealth Advisors,Active,Surat,2021-05-13,2026-05-12,naveen.khanna@khanna-wealth.com,Tax Planning
+INA000003288,Sonal Bansal,Bansal Wealth Advisors,Suspended,Pune,2021-07-16,2026-07-15,sonal.bansal@bansal-wealth.com,Retirement Planning
+INA000003289,Ramesh Patel,Patel Wealth Advisors,Active,Patna,2022-06-12,2027-06-11,ramesh.patel@patel-wealth.com,Real Estate Investment
+INA000003290,Reema Chopra,Chopra Wealth Advisors,Active,Kolkata,2019-06-04,2024-06-02,reema.chopra@chopra-wealth.com,Mutual Funds
+INA000003291,Rohini Gupta,Gupta Wealth Advisors,Active,Patna,2022-10-13,2027-10-12,rohini.gupta@gupta-wealth.com,Mutual Funds
+INA000003292,Karthik Mehta,Mehta Wealth Advisors,Active,Pune,2022-04-28,2027-04-27,karthik.mehta@mehta-wealth.com,Real Estate Investment
+INA000003293,Karthik Agarwal,Agarwal Wealth Advisors,Active,Pune,2023-04-17,2028-04-15,karthik.agarwal@agarwal-wealth.com,Mutual Funds
+INA000003294,Deepika Desai,Desai Wealth Advisors,Suspended,Ahmedabad,2021-07-15,2026-07-14,deepika.desai@desai-wealth.com,Equity Research
+INA000003295,Tanvi Kulkarni,Kulkarni Wealth Advisors,Active,Hyderabad,2019-11-12,2024-11-10,tanvi.kulkarni@kulkarni-wealth.com,Portfolio Management
+INA000003296,Tanvi Iyer,Iyer Wealth Advisors,Active,Jaipur,2022-11-27,2027-11-26,tanvi.iyer@iyer-wealth.com,Insurance Planning
+INA000003297,Payal Joshi,Joshi Wealth Advisors,Active,Kolkata,2019-06-21,2024-06-19,payal.joshi@joshi-wealth.com,Derivatives
+INA000003298,Nisha Bhatt,Bhatt Wealth Advisors,Active,Kolkata,2022-06-02,2027-06-01,nisha.bhatt@bhatt-wealth.com,Derivatives
+INA000003299,Sneha Iyer,Iyer Wealth Advisors,Suspended,Delhi,2019-07-18,2024-07-16,sneha.iyer@iyer-wealth.com,Tax Planning
+INA000003300,Nisha Kumar,Kumar Wealth Advisors,Active,Varanasi,2022-09-05,2027-09-04,nisha.kumar@kumar-wealth.com,Portfolio Management
+INA000003301,Karthik Iyer,Iyer Wealth Advisors,Active,Hyderabad,2019-03-04,2024-03-02,karthik.iyer@iyer-wealth.com,Equity Research
+INA000003302,Anjali Sharma,Sharma Wealth Advisors,Active,Chandigarh,2020-05-05,2025-05-04,anjali.sharma@sharma-wealth.com,Tax Planning
+INA000003303,Vishal Patel,Patel Wealth Advisors,Active,Chandigarh,2021-09-22,2026-09-21,vishal.patel@patel-wealth.com,Equity Research
+INA000003304,Alok Desai,Desai Wealth Advisors,Active,Ahmedabad,2018-08-21,2023-08-20,alok.desai@desai-wealth.com,Mutual Funds
+INA000003305,Sneha Desai,Desai Wealth Advisors,Active,Varanasi,2021-02-03,2026-02-02,sneha.desai@desai-wealth.com,Real Estate Investment
+INA000003306,Sameer Verma,Verma Wealth Advisors,Suspended,Delhi,2018-01-10,2023-01-09,sameer.verma@verma-wealth.com,Tax Planning
+INA000003307,Sneha Chopra,Chopra Wealth Advisors,Active,Mumbai,2020-06-22,2025-06-21,sneha.chopra@chopra-wealth.com,Derivatives
+INA000003308,Naveen Kulkarni,Kulkarni Wealth Advisors,Cancelled,Patna,2020-11-26,2025-11-25,naveen.kulkarni@kulkarni-wealth.com,Portfolio Management
+INA000003309,Alok Iyer,Iyer Wealth Advisors,Active,Delhi,2022-11-05,2027-11-04,alok.iyer@iyer-wealth.com,Real Estate Investment
+INA000003310,Payal Pandey,Pandey Wealth Advisors,Active,Nagpur,2020-09-13,2025-09-12,payal.pandey@pandey-wealth.com,Retirement Planning
+INA000003311,Rohini Verma,Verma Wealth Advisors,Active,Bhopal,2019-08-18,2024-08-16,rohini.verma@verma-wealth.com,Tax Planning
+INA000003312,Reema Agarwal,Agarwal Wealth Advisors,Suspended,Pune,2022-05-11,2027-05-10,reema.agarwal@agarwal-wealth.com,Equity Research
+INA000003313,Abhishek Yadav,Yadav Wealth Advisors,Active,Ahmedabad,2021-05-10,2026-05-09,abhishek.yadav@yadav-wealth.com,Derivatives
+INA000003314,Ramesh Patel,Patel Wealth Advisors,Active,Ahmedabad,2020-12-15,2025-12-14,ramesh.patel@patel-wealth.com,Insurance Planning
+INA000003315,Karthik Agarwal,Agarwal Wealth Advisors,Active,Bangalore,2023-03-14,2028-03-12,karthik.agarwal@agarwal-wealth.com,Tax Planning
+INA000003316,Alok Kulkarni,Kulkarni Wealth Advisors,Suspended,Surat,2018-11-19,2023-11-18,alok.kulkarni@kulkarni-wealth.com,Portfolio Management
+INA000003317,Anjali Reddy,Reddy Wealth Advisors,Active,Delhi,2020-12-30,2025-12-29,anjali.reddy@reddy-wealth.com,Retirement Planning
+INA000003318,Karthik Sharma,Sharma Wealth Advisors,Cancelled,Surat,2020-09-15,2025-09-14,karthik.sharma@sharma-wealth.com,Portfolio Management
+INA000003319,Nisha Yadav,Yadav Wealth Advisors,Suspended,Indore,2022-06-06,2027-06-05,nisha.yadav@yadav-wealth.com,Insurance Planning
+INA000003320,Sonal Verma,Verma Wealth Advisors,Active,Bhopal,2021-08-26,2026-08-25,sonal.verma@verma-wealth.com,Equity Research
+INA000003321,Gaurav Yadav,Yadav Wealth Advisors,Active,Indore,2023-05-28,2028-05-26,gaurav.yadav@yadav-wealth.com,Mutual Funds
+INA000003322,Reema Pillai,Pillai Wealth Advisors,Active,Hyderabad,2019-09-16,2024-09-14,reema.pillai@pillai-wealth.com,Real Estate Investment
+INA000003323,Sameer Agarwal,Agarwal Wealth Advisors,Suspended,Delhi,2019-08-08,2024-08-06,sameer.agarwal@agarwal-wealth.com,Derivatives
+INA000003324,Vishal Desai,Desai Wealth Advisors,Active,Ahmedabad,2021-09-01,2026-08-31,vishal.desai@desai-wealth.com,Tax Planning
+INA000003325,Karthik Nair,Nair Wealth Advisors,Active,Chennai,2021-01-11,2026-01-10,karthik.nair@nair-wealth.com,Derivatives
+INA000003326,Ramesh Patel,Patel Wealth Advisors,Active,Ranchi,2022-05-04,2027-05-03,ramesh.patel@patel-wealth.com,Real Estate Investment
+INA000003327,Vishal Bhatt,Bhatt Wealth Advisors,Active,Delhi,2021-01-20,2026-01-19,vishal.bhatt@bhatt-wealth.com,Mutual Funds
+INA000003328,Abhishek Khanna,Khanna Wealth Advisors,Active,Nagpur,2021-04-09,2026-04-08,abhishek.khanna@khanna-wealth.com,Retirement Planning
+INA000003329,Abhishek Khanna,Khanna Wealth Advisors,Active,Chandigarh,2018-02-03,2023-02-02,abhishek.khanna@khanna-wealth.com,Portfolio Management
+INA000003330,Ramesh Patel,Patel Wealth Advisors,Suspended,Chennai,2021-12-13,2026-12-12,ramesh.patel@patel-wealth.com,Mutual Funds
+INA000003331,Ramesh Pillai,Pillai Wealth Advisors,Active,Jaipur,2019-01-09,2024-01-08,ramesh.pillai@pillai-wealth.com,Tax Planning
+INA000003332,Alok Khanna,Khanna Wealth Advisors,Cancelled,Nagpur,2018-07-18,2023-07-17,alok.khanna@khanna-wealth.com,Mutual Funds
+INA000003333,Ramesh Kulkarni,Kulkarni Wealth Advisors,Active,Lucknow,2020-05-16,2025-05-15,ramesh.kulkarni@kulkarni-wealth.com,Portfolio Management
+INA000003334,Rohini Gupta,Gupta Wealth Advisors,Active,Lucknow,2018-03-08,2023-03-07,rohini.gupta@gupta-wealth.com,Mutual Funds
+INA000003335,Anjali Sharma,Sharma Wealth Advisors,Active,Patna,2019-03-29,2024-03-27,anjali.sharma@sharma-wealth.com,Derivatives
+INA000003336,Gaurav Khanna,Khanna Wealth Advisors,Active,Ahmedabad,2018-04-04,2023-04-03,gaurav.khanna@khanna-wealth.com,Derivatives
+INA000003337,Gaurav Mehta,Mehta Wealth Advisors,Active,Ranchi,2021-11-18,2026-11-17,gaurav.mehta@mehta-wealth.com,Portfolio Management
+INA000003338,Deepika Agarwal,Agarwal Wealth Advisors,Cancelled,Bhopal,2018-03-02,2023-03-01,deepika.agarwal@agarwal-wealth.com,Mutual Funds
+INA000003339,Swati Kulkarni,Kulkarni Wealth Advisors,Suspended,Ahmedabad,2019-03-28,2024-03-26,swati.kulkarni@kulkarni-wealth.com,Portfolio Management
+INA000003340,Karthik Khanna,Khanna Wealth Advisors,Cancelled,Chennai,2018-04-25,2023-04-24,karthik.khanna@khanna-wealth.com,Mutual Funds
+INA000003341,Payal Yadav,Yadav Wealth Advisors,Suspended,Ahmedabad,2021-12-17,2026-12-16,payal.yadav@yadav-wealth.com,Equity Research
+INA000003342,Vishal Joshi,Joshi Wealth Advisors,Active,Kanpur,2022-12-21,2027-12-20,vishal.joshi@joshi-wealth.com,Portfolio Management
+INA000003343,Sneha Verma,Verma Wealth Advisors,Active,Delhi,2022-02-12,2027-02-11,sneha.verma@verma-wealth.com,Real Estate Investment
+INA000003344,Sneha Patel,Patel Wealth Advisors,Active,Bangalore,2023-01-31,2028-01-30,sneha.patel@patel-wealth.com,Equity Research
+INA000003345,Vishal Gupta,Gupta Wealth Advisors,Active,Jaipur,2021-06-06,2026-06-05,vishal.gupta@gupta-wealth.com,Equity Research
+INA000003346,Sneha Verma,Verma Wealth Advisors,Active,Ranchi,2019-05-29,2024-05-27,sneha.verma@verma-wealth.com,Insurance Planning
+INA000003347,Naveen Khanna,Khanna Wealth Advisors,Suspended,Mumbai,2021-01-13,2026-01-12,naveen.khanna@khanna-wealth.com,Portfolio Management
+INA000003348,Sameer Mehta,Mehta Wealth Advisors,Active,Delhi,2021-03-11,2026-03-10,sameer.mehta@mehta-wealth.com,Retirement Planning
+INA000003349,Swati Patel,Patel Wealth Advisors,Active,Ranchi,2019-09-29,2024-09-27,swati.patel@patel-wealth.com,Retirement Planning
+INA000003350,Tanvi Yadav,Yadav Wealth Advisors,Active,Pune,2018-04-11,2023-04-10,tanvi.yadav@yadav-wealth.com,Derivatives
+INA000003351,Karthik Desai,Desai Wealth Advisors,Active,Ahmedabad,2018-07-04,2023-07-03,karthik.desai@desai-wealth.com,Insurance Planning
+INA000003352,Naveen Patel,Patel Wealth Advisors,Active,Chandigarh,2019-07-24,2024-07-22,naveen.patel@patel-wealth.com,Retirement Planning
+INA000003353,Sameer Desai,Desai Wealth Advisors,Active,Kanpur,2018-07-24,2023-07-23,sameer.desai@desai-wealth.com,Tax Planning
+INA000003354,Payal Pandey,Pandey Wealth Advisors,Active,Patna,2020-09-29,2025-09-28,payal.pandey@pandey-wealth.com,Mutual Funds
+INA000003355,Deepika Patel,Patel Wealth Advisors,Suspended,Bhopal,2022-12-02,2027-12-01,deepika.patel@patel-wealth.com,Real Estate Investment
+INA000003356,Nisha Kumar,Kumar Wealth Advisors,Active,Surat,2019-05-12,2024-05-10,nisha.kumar@kumar-wealth.com,Derivatives
+INA000003357,Tanvi Bansal,Bansal Wealth Advisors,Active,Surat,2022-01-05,2027-01-04,tanvi.bansal@bansal-wealth.com,Equity Research
+INA000003358,Sameer Patel,Patel Wealth Advisors,Active,Ahmedabad,2018-07-25,2023-07-24,sameer.patel@patel-wealth.com,Mutual Funds
+INA000003359,Tanvi Gupta,Gupta Wealth Advisors,Suspended,Varanasi,2020-04-03,2025-04-02,tanvi.gupta@gupta-wealth.com,Real Estate Investment
+INA000003360,Gaurav Gupta,Gupta Wealth Advisors,Active,Surat,2019-12-06,2024-12-04,gaurav.gupta@gupta-wealth.com,Tax Planning
+INA000003361,Jyoti Iyer,Iyer Wealth Advisors,Active,Varanasi,2023-05-10,2028-05-08,jyoti.iyer@iyer-wealth.com,Portfolio Management
+INA000003362,Naveen Pillai,Pillai Wealth Advisors,Active,Chandigarh,2018-05-27,2023-05-26,naveen.pillai@pillai-wealth.com,Portfolio Management
+INA000003363,Swati Kulkarni,Kulkarni Wealth Advisors,Active,Kanpur,2019-02-15,2024-02-14,swati.kulkarni@kulkarni-wealth.com,Derivatives
+INA000003364,Anjali Nair,Nair Wealth Advisors,Active,Ahmedabad,2018-05-04,2023-05-03,anjali.nair@nair-wealth.com,Mutual Funds
+INA000003365,Payal Yadav,Yadav Wealth Advisors,Active,Indore,2018-09-27,2023-09-26,payal.yadav@yadav-wealth.com,Tax Planning
+INA000003366,Reema Chopra,Chopra Wealth Advisors,Active,Bhopal,2019-07-20,2024-07-18,reema.chopra@chopra-wealth.com,Equity Research
+INA000003367,Deepika Patel,Patel Wealth Advisors,Active,Kolkata,2019-06-09,2024-06-07,deepika.patel@patel-wealth.com,Real Estate Investment
+INA000003368,Tanvi Reddy,Reddy Wealth Advisors,Active,Ranchi,2018-09-30,2023-09-29,tanvi.reddy@reddy-wealth.com,Equity Research
+INA000003369,Sneha Nair,Nair Wealth Advisors,Active,Kanpur,2018-10-29,2023-10-28,sneha.nair@nair-wealth.com,Equity Research
+INA000003370,Anjali Sharma,Sharma Wealth Advisors,Active,Mumbai,2022-03-23,2027-03-22,anjali.sharma@sharma-wealth.com,Real Estate Investment
+INA000003371,Vishal Desai,Desai Wealth Advisors,Suspended,Delhi,2018-05-05,2023-05-04,vishal.desai@desai-wealth.com,Real Estate Investment
+INA000003372,Swati Pandey,Pandey Wealth Advisors,Active,Indore,2018-06-07,2023-06-06,swati.pandey@pandey-wealth.com,Retirement Planning
+INA000003373,Ramesh Bhatt,Bhatt Wealth Advisors,Active,Delhi,2023-05-14,2028-05-12,ramesh.bhatt@bhatt-wealth.com,Real Estate Investment
+INA000003374,Karthik Yadav,Yadav Wealth Advisors,Suspended,Nagpur,2023-02-17,2028-02-16,karthik.yadav@yadav-wealth.com,Portfolio Management
+INA000003375,Sameer Bhatt,Bhatt Wealth Advisors,Suspended,Chennai,2021-12-14,2026-12-13,sameer.bhatt@bhatt-wealth.com,Retirement Planning
+INA000003376,Rohini Mehta,Mehta Wealth Advisors,Active,Pune,2018-02-26,2023-02-25,rohini.mehta@mehta-wealth.com,Retirement Planning
+INA000003377,Sneha Sharma,Sharma Wealth Advisors,Active,Kanpur,2022-01-07,2027-01-06,sneha.sharma@sharma-wealth.com,Derivatives
+INA000003378,Anjali Yadav,Yadav Wealth Advisors,Active,Lucknow,2018-03-20,2023-03-19,anjali.yadav@yadav-wealth.com,Mutual Funds
+INA000003379,Sameer Verma,Verma Wealth Advisors,Active,Surat,2022-06-09,2027-06-08,sameer.verma@verma-wealth.com,Retirement Planning
+INA000003380,Karthik Agarwal,Agarwal Wealth Advisors,Active,Ahmedabad,2018-06-17,2023-06-16,karthik.agarwal@agarwal-wealth.com,Retirement Planning
+INA000003381,Anjali Pandey,Pandey Wealth Advisors,Active,Surat,2023-05-29,2028-05-27,anjali.pandey@pandey-wealth.com,Insurance Planning
+INA000003382,Karthik Reddy,Reddy Wealth Advisors,Active,Nagpur,2018-02-06,2023-02-05,karthik.reddy@reddy-wealth.com,Retirement Planning
+INA000003383,Swati Patel,Patel Wealth Advisors,Active,Hyderabad,2021-08-22,2026-08-21,swati.patel@patel-wealth.com,Real Estate Investment
+INA000003384,Ramesh Reddy,Reddy Wealth Advisors,Suspended,Lucknow,2018-02-21,2023-02-20,ramesh.reddy@reddy-wealth.com,Portfolio Management
+INA000003385,Sneha Kulkarni,Kulkarni Wealth Advisors,Active,Pune,2021-03-09,2026-03-08,sneha.kulkarni@kulkarni-wealth.com,Real Estate Investment
+INA000003386,Sameer Patel,Patel Wealth Advisors,Active,Kolkata,2020-10-08,2025-10-07,sameer.patel@patel-wealth.com,Portfolio Management
+INA000003387,Reema Kumar,Kumar Wealth Advisors,Active,Surat,2019-09-06,2024-09-04,reema.kumar@kumar-wealth.com,Real Estate Investment
+INA000003388,Naveen Iyer,Iyer Wealth Advisors,Active,Mumbai,2019-07-21,2024-07-19,naveen.iyer@iyer-wealth.com,Insurance Planning
+INA000003389,Karthik Yadav,Yadav Wealth Advisors,Active,Mumbai,2021-10-11,2026-10-10,karthik.yadav@yadav-wealth.com,Retirement Planning
+INA000003390,Naveen Mehta,Mehta Wealth Advisors,Active,Kanpur,2020-12-18,2025-12-17,naveen.mehta@mehta-wealth.com,Derivatives
+INA000003391,Harsh Bhatt,Bhatt Wealth Advisors,Suspended,Jaipur,2021-06-07,2026-06-06,harsh.bhatt@bhatt-wealth.com,Real Estate Investment
+INA000003392,Swati Iyer,Iyer Wealth Advisors,Active,Chennai,2020-07-10,2025-07-09,swati.iyer@iyer-wealth.com,Tax Planning
+INA000003393,Harsh Nair,Nair Wealth Advisors,Active,Kanpur,2019-03-13,2024-03-11,harsh.nair@nair-wealth.com,Mutual Funds
+INA000003394,Payal Agarwal,Agarwal Wealth Advisors,Active,Chennai,2022-09-10,2027-09-09,payal.agarwal@agarwal-wealth.com,Derivatives
+INA000003395,Gaurav Sharma,Sharma Wealth Advisors,Active,Nagpur,2020-09-08,2025-09-07,gaurav.sharma@sharma-wealth.com,Mutual Funds
+INA000003396,Nisha Kumar,Kumar Wealth Advisors,Active,Indore,2020-08-13,2025-08-12,nisha.kumar@kumar-wealth.com,Mutual Funds
+INA000003397,Harsh Iyer,Iyer Wealth Advisors,Cancelled,Ahmedabad,2019-11-11,2024-11-09,harsh.iyer@iyer-wealth.com,Tax Planning
+INA000003398,Alok Patel,Patel Wealth Advisors,Active,Pune,2021-08-01,2026-07-31,alok.patel@patel-wealth.com,Derivatives
+INA000003399,Vishal Nair,Nair Wealth Advisors,Suspended,Jaipur,2019-07-29,2024-07-27,vishal.nair@nair-wealth.com,Derivatives
+INA000003400,Harsh Iyer,Iyer Wealth Advisors,Active,Chennai,2020-08-16,2025-08-15,harsh.iyer@iyer-wealth.com,Real Estate Investment
+INA000003401,Payal Bansal,Bansal Wealth Advisors,Active,Delhi,2018-01-26,2023-01-25,payal.bansal@bansal-wealth.com,Derivatives
+INA000003402,Jyoti Sharma,Sharma Wealth Advisors,Cancelled,Chennai,2022-11-29,2027-11-28,jyoti.sharma@sharma-wealth.com,Retirement Planning
+INA000003403,Deepika Iyer,Iyer Wealth Advisors,Active,Chandigarh,2019-03-20,2024-03-18,deepika.iyer@iyer-wealth.com,Mutual Funds
+INA000003404,Tanvi Bhatt,Bhatt Wealth Advisors,Active,Lucknow,2019-12-02,2024-11-30,tanvi.bhatt@bhatt-wealth.com,Derivatives
+INA000003405,Deepika Iyer,Iyer Wealth Advisors,Active,Patna,2023-01-30,2028-01-29,deepika.iyer@iyer-wealth.com,Retirement Planning
+INA000003406,Abhishek Mehta,Mehta Wealth Advisors,Active,Ahmedabad,2018-01-14,2023-01-13,abhishek.mehta@mehta-wealth.com,Equity Research
+INA000003407,Karthik Pillai,Pillai Wealth Advisors,Cancelled,Jaipur,2018-01-15,2023-01-14,karthik.pillai@pillai-wealth.com,Retirement Planning
+INA000003408,Gaurav Chopra,Chopra Wealth Advisors,Active,Ranchi,2018-05-19,2023-05-18,gaurav.chopra@chopra-wealth.com,Mutual Funds
+INA000003409,Gaurav Sharma,Sharma Wealth Advisors,Active,Bangalore,2021-03-20,2026-03-19,gaurav.sharma@sharma-wealth.com,Derivatives
+INA000003410,Gaurav Chopra,Chopra Wealth Advisors,Active,Indore,2020-08-19,2025-08-18,gaurav.chopra@chopra-wealth.com,Mutual Funds
+INA000003411,Sonal Sharma,Sharma Wealth Advisors,Active,Hyderabad,2018-03-07,2023-03-06,sonal.sharma@sharma-wealth.com,Mutual Funds
+INA000003412,Rohini Kulkarni,Kulkarni Wealth Advisors,Active,Surat,2022-03-31,2027-03-30,rohini.kulkarni@kulkarni-wealth.com,Portfolio Management
+INA000003413,Sneha Patel,Patel Wealth Advisors,Suspended,Ahmedabad,2019-08-17,2024-08-15,sneha.patel@patel-wealth.com,Tax Planning
+INA000003414,Deepika Pandey,Pandey Wealth Advisors,Active,Chandigarh,2018-07-31,2023-07-30,deepika.pandey@pandey-wealth.com,Real Estate Investment
+INA000003415,Anjali Nair,Nair Wealth Advisors,Active,Kolkata,2022-11-05,2027-11-04,anjali.nair@nair-wealth.com,Tax Planning
+INA000003416,Karthik Nair,Nair Wealth Advisors,Suspended,Kanpur,2018-04-07,2023-04-06,karthik.nair@nair-wealth.com,Derivatives
+INA000003417,Deepika Pandey,Pandey Wealth Advisors,Active,Ranchi,2021-07-12,2026-07-11,deepika.pandey@pandey-wealth.com,Insurance Planning
+INA000003418,Sonal Patel,Patel Wealth Advisors,Active,Surat,2021-10-02,2026-10-01,sonal.patel@patel-wealth.com,Portfolio Management
+INA000003419,Nisha Kumar,Kumar Wealth Advisors,Active,Nagpur,2023-02-18,2028-02-17,nisha.kumar@kumar-wealth.com,Real Estate Investment
+INA000003420,Rohini Yadav,Yadav Wealth Advisors,Cancelled,Ahmedabad,2020-12-03,2025-12-02,rohini.yadav@yadav-wealth.com,Real Estate Investment
+INA000003421,Reema Chopra,Chopra Wealth Advisors,Suspended,Ranchi,2023-04-24,2028-04-22,reema.chopra@chopra-wealth.com,Insurance Planning
+INA000003422,Payal Iyer,Iyer Wealth Advisors,Suspended,Patna,2021-08-26,2026-08-25,payal.iyer@iyer-wealth.com,Retirement Planning
+INA000003423,Deepika Mehta,Mehta Wealth Advisors,Active,Patna,2018-04-01,2023-03-31,deepika.mehta@mehta-wealth.com,Equity Research
+INA000003424,Rohini Bansal,Bansal Wealth Advisors,Active,Hyderabad,2021-12-17,2026-12-16,rohini.bansal@bansal-wealth.com,Insurance Planning
+INA000003425,Swati Agarwal,Agarwal Wealth Advisors,Active,Pune,2019-08-06,2024-08-04,swati.agarwal@agarwal-wealth.com,Derivatives
+INA000003426,Gaurav Nair,Nair Wealth Advisors,Cancelled,Mumbai,2018-09-13,2023-09-12,gaurav.nair@nair-wealth.com,Tax Planning
+INA000003427,Gaurav Pandey,Pandey Wealth Advisors,Active,Surat,2018-02-09,2023-02-08,gaurav.pandey@pandey-wealth.com,Real Estate Investment
+INA000003428,Nisha Chopra,Chopra Wealth Advisors,Active,Kolkata,2020-11-05,2025-11-04,nisha.chopra@chopra-wealth.com,Mutual Funds
+INA000003429,Alok Joshi,Joshi Wealth Advisors,Active,Jaipur,2022-10-28,2027-10-27,alok.joshi@joshi-wealth.com,Equity Research
+INA000003430,Abhishek Khanna,Khanna Wealth Advisors,Active,Bangalore,2018-02-15,2023-02-14,abhishek.khanna@khanna-wealth.com,Portfolio Management
+INA000003431,Ramesh Kulkarni,Kulkarni Wealth Advisors,Active,Nagpur,2019-05-15,2024-05-13,ramesh.kulkarni@kulkarni-wealth.com,Derivatives
+INA000003432,Deepika Reddy,Reddy Wealth Advisors,Active,Varanasi,2020-09-22,2025-09-21,deepika.reddy@reddy-wealth.com,Mutual Funds
+INA000003433,Deepika Patel,Patel Wealth Advisors,Active,Mumbai,2018-05-29,2023-05-28,deepika.patel@patel-wealth.com,Portfolio Management
+INA000003434,Karthik Reddy,Reddy Wealth Advisors,Active,Chandigarh,2021-02-25,2026-02-24,karthik.reddy@reddy-wealth.com,Tax Planning
+INA000003435,Harsh Mehta,Mehta Wealth Advisors,Cancelled,Ahmedabad,2019-10-02,2024-09-30,harsh.mehta@mehta-wealth.com,Portfolio Management
+INA000003436,Sneha Khanna,Khanna Wealth Advisors,Active,Bhopal,2021-07-24,2026-07-23,sneha.khanna@khanna-wealth.com,Tax Planning
+INA000003437,Naveen Kulkarni,Kulkarni Wealth Advisors,Active,Kolkata,2019-06-11,2024-06-09,naveen.kulkarni@kulkarni-wealth.com,Portfolio Management
+INA000003438,Vishal Patel,Patel Wealth Advisors,Active,Surat,2018-05-24,2023-05-23,vishal.patel@patel-wealth.com,Tax Planning
+INA000003439,Jyoti Yadav,Yadav Wealth Advisors,Active,Ahmedabad,2018-10-18,2023-10-17,jyoti.yadav@yadav-wealth.com,Retirement Planning
+INA000003440,Anjali Chopra,Chopra Wealth Advisors,Active,Chennai,2021-07-14,2026-07-13,anjali.chopra@chopra-wealth.com,Tax Planning
+INA000003441,Alok Bansal,Bansal Wealth Advisors,Active,Jaipur,2022-05-01,2027-04-30,alok.bansal@bansal-wealth.com,Tax Planning
+INA000003442,Karthik Verma,Verma Wealth Advisors,Suspended,Bangalore,2022-08-13,2027-08-12,karthik.verma@verma-wealth.com,Real Estate Investment
+INA000003443,Sameer Chopra,Chopra Wealth Advisors,Active,Kanpur,2019-11-29,2024-11-27,sameer.chopra@chopra-wealth.com,Insurance Planning
+INA000003444,Vishal Sharma,Sharma Wealth Advisors,Active,Kanpur,2018-02-24,2023-02-23,vishal.sharma@sharma-wealth.com,Mutual Funds
+INA000003445,Rohini Pillai,Pillai Wealth Advisors,Suspended,Kanpur,2020-05-30,2025-05-29,rohini.pillai@pillai-wealth.com,Mutual Funds
+INA000003446,Nisha Agarwal,Agarwal Wealth Advisors,Active,Kolkata,2021-07-08,2026-07-07,nisha.agarwal@agarwal-wealth.com,Mutual Funds
+INA000003447,Ramesh Kumar,Kumar Wealth Advisors,Active,Surat,2021-04-23,2026-04-22,ramesh.kumar@kumar-wealth.com,Retirement Planning
+INA000003448,Karthik Iyer,Iyer Wealth Advisors,Active,Ranchi,2020-05-23,2025-05-22,karthik.iyer@iyer-wealth.com,Mutual Funds
+INA000003449,Karthik Joshi,Joshi Wealth Advisors,Active,Varanasi,2023-06-01,2028-05-30,karthik.joshi@joshi-wealth.com,Retirement Planning
+INA000003450,Reema Desai,Desai Wealth Advisors,Active,Ahmedabad,2022-10-21,2027-10-20,reema.desai@desai-wealth.com,Retirement Planning
+INA000003451,Tanvi Yadav,Yadav Wealth Advisors,Suspended,Mumbai,2020-02-11,2025-02-09,tanvi.yadav@yadav-wealth.com,Tax Planning
+INA000003452,Naveen Khanna,Khanna Wealth Advisors,Active,Hyderabad,2021-04-02,2026-04-01,naveen.khanna@khanna-wealth.com,Tax Planning
+INA000003453,Alok Mehta,Mehta Wealth Advisors,Active,Surat,2021-06-04,2026-06-03,alok.mehta@mehta-wealth.com,Tax Planning
+INA000003454,Sonal Iyer,Iyer Wealth Advisors,Active,Chennai,2023-02-15,2028-02-14,sonal.iyer@iyer-wealth.com,Portfolio Management
+INA000003455,Sneha Kulkarni,Kulkarni Wealth Advisors,Active,Chandigarh,2021-08-11,2026-08-10,sneha.kulkarni@kulkarni-wealth.com,Real Estate Investment
+INA000003456,Vishal Reddy,Reddy Wealth Advisors,Active,Mumbai,2022-08-22,2027-08-21,vishal.reddy@reddy-wealth.com,Equity Research
+INA000003457,Deepika Nair,Nair Wealth Advisors,Cancelled,Kolkata,2018-10-23,2023-10-22,deepika.nair@nair-wealth.com,Retirement Planning
+INA000003458,Reema Joshi,Joshi Wealth Advisors,Active,Chennai,2020-09-18,2025-09-17,reema.joshi@joshi-wealth.com,Mutual Funds
+INA000003459,Gaurav Kulkarni,Kulkarni Wealth Advisors,Active,Bangalore,2020-07-04,2025-07-03,gaurav.kulkarni@kulkarni-wealth.com,Derivatives
+INA000003460,Rohini Sharma,Sharma Wealth Advisors,Active,Bangalore,2020-03-09,2025-03-08,rohini.sharma@sharma-wealth.com,Portfolio Management
+INA000003461,Karthik Iyer,Iyer Wealth Advisors,Active,Kanpur,2018-08-17,2023-08-16,karthik.iyer@iyer-wealth.com,Equity Research
+INA000003462,Reema Reddy,Reddy Wealth Advisors,Active,Ahmedabad,2020-05-28,2025-05-27,reema.reddy@reddy-wealth.com,Derivatives
+INA000003463,Anjali Reddy,Reddy Wealth Advisors,Active,Kolkata,2018-03-29,2023-03-28,anjali.reddy@reddy-wealth.com,Insurance Planning
+INA000003464,Tanvi Desai,Desai Wealth Advisors,Active,Mumbai,2023-03-14,2028-03-12,tanvi.desai@desai-wealth.com,Insurance Planning
+INA000003465,Swati Iyer,Iyer Wealth Advisors,Active,Chennai,2020-03-21,2025-03-20,swati.iyer@iyer-wealth.com,Insurance Planning
+INA000003466,Naveen Desai,Desai Wealth Advisors,Active,Kanpur,2023-05-03,2028-05-01,naveen.desai@desai-wealth.com,Real Estate Investment
+INA000003467,Tanvi Nair,Nair Wealth Advisors,Active,Bangalore,2018-01-23,2023-01-22,tanvi.nair@nair-wealth.com,Mutual Funds
+INA000003468,Sneha Verma,Verma Wealth Advisors,Active,Kolkata,2021-04-18,2026-04-17,sneha.verma@verma-wealth.com,Derivatives
+INA000003469,Reema Nair,Nair Wealth Advisors,Suspended,Hyderabad,2019-09-05,2024-09-03,reema.nair@nair-wealth.com,Derivatives
+INA000003470,Payal Khanna,Khanna Wealth Advisors,Active,Delhi,2020-06-04,2025-06-03,payal.khanna@khanna-wealth.com,Real Estate Investment
+INA000003471,Ramesh Joshi,Joshi Wealth Advisors,Active,Ranchi,2023-03-12,2028-03-10,ramesh.joshi@joshi-wealth.com,Equity Research
+INA000003472,Sonal Pandey,Pandey Wealth Advisors,Cancelled,Surat,2020-08-07,2025-08-06,sonal.pandey@pandey-wealth.com,Equity Research
+INA000003473,Ramesh Desai,Desai Wealth Advisors,Active,Surat,2022-07-19,2027-07-18,ramesh.desai@desai-wealth.com,Tax Planning
+INA000003474,Anjali Pandey,Pandey Wealth Advisors,Active,Ranchi,2020-07-06,2025-07-05,anjali.pandey@pandey-wealth.com,Tax Planning
+INA000003475,Alok Joshi,Joshi Wealth Advisors,Active,Bhopal,2022-08-16,2027-08-15,alok.joshi@joshi-wealth.com,Real Estate Investment
+INA000003476,Sneha Agarwal,Agarwal Wealth Advisors,Active,Ranchi,2020-08-02,2025-08-01,sneha.agarwal@agarwal-wealth.com,Derivatives
+INA000003477,Sonal Sharma,Sharma Wealth Advisors,Active,Varanasi,2021-08-10,2026-08-09,sonal.sharma@sharma-wealth.com,Mutual Funds
+INA000003478,Abhishek Kulkarni,Kulkarni Wealth Advisors,Active,Mumbai,2021-10-10,2026-10-09,abhishek.kulkarni@kulkarni-wealth.com,Equity Research
+INA000003479,Nisha Mehta,Mehta Wealth Advisors,Active,Ranchi,2021-12-05,2026-12-04,nisha.mehta@mehta-wealth.com,Retirement Planning
+INA000003480,Harsh Kumar,Kumar Wealth Advisors,Suspended,Mumbai,2022-10-01,2027-09-30,harsh.kumar@kumar-wealth.com,Tax Planning
+INA000003481,Sneha Pandey,Pandey Wealth Advisors,Active,Nagpur,2022-12-03,2027-12-02,sneha.pandey@pandey-wealth.com,Tax Planning
+INA000003482,Gaurav Yadav,Yadav Wealth Advisors,Cancelled,Pune,2020-07-20,2025-07-19,gaurav.yadav@yadav-wealth.com,Real Estate Investment
+INA000003483,Abhishek Reddy,Reddy Wealth Advisors,Active,Bangalore,2020-10-29,2025-10-28,abhishek.reddy@reddy-wealth.com,Portfolio Management
+INA000003484,Reema Iyer,Iyer Wealth Advisors,Active,Kolkata,2023-02-22,2028-02-21,reema.iyer@iyer-wealth.com,Tax Planning
+INA000003485,Ramesh Agarwal,Agarwal Wealth Advisors,Active,Lucknow,2021-11-16,2026-11-15,ramesh.agarwal@agarwal-wealth.com,Mutual Funds
+INA000003486,Reema Gupta,Gupta Wealth Advisors,Active,Nagpur,2019-12-07,2024-12-05,reema.gupta@gupta-wealth.com,Mutual Funds
+INA000003487,Sneha Joshi,Joshi Wealth Advisors,Active,Nagpur,2022-08-04,2027-08-03,sneha.joshi@joshi-wealth.com,Insurance Planning
+INA000003488,Vishal Desai,Desai Wealth Advisors,Active,Mumbai,2023-03-13,2028-03-11,vishal.desai@desai-wealth.com,Derivatives
+INA000003489,Abhishek Joshi,Joshi Wealth Advisors,Active,Lucknow,2019-06-27,2024-06-25,abhishek.joshi@joshi-wealth.com,Equity Research
+INA000003490,Vishal Nair,Nair Wealth Advisors,Active,Nagpur,2022-10-11,2027-10-10,vishal.nair@nair-wealth.com,Mutual Funds
+INA000003491,Swati Bansal,Bansal Wealth Advisors,Active,Patna,2021-08-13,2026-08-12,swati.bansal@bansal-wealth.com,Mutual Funds
+INA000003492,Jyoti Patel,Patel Wealth Advisors,Active,Delhi,2022-09-30,2027-09-29,jyoti.patel@patel-wealth.com,Mutual Funds
+INA000003493,Tanvi Sharma,Sharma Wealth Advisors,Active,Bangalore,2022-09-04,2027-09-03,tanvi.sharma@sharma-wealth.com,Real Estate Investment
+INA000003494,Sneha Mehta,Mehta Wealth Advisors,Suspended,Ranchi,2019-02-05,2024-02-04,sneha.mehta@mehta-wealth.com,Portfolio Management
+INA000003495,Abhishek Verma,Verma Wealth Advisors,Active,Delhi,2018-01-06,2023-01-05,abhishek.verma@verma-wealth.com,Portfolio Management
+INA000003496,Karthik Verma,Verma Wealth Advisors,Active,Nagpur,2021-01-26,2026-01-25,karthik.verma@verma-wealth.com,Portfolio Management
+INA000003497,Payal Bansal,Bansal Wealth Advisors,Suspended,Surat,2018-06-02,2023-06-01,payal.bansal@bansal-wealth.com,Equity Research
+INA000003498,Sonal Patel,Patel Wealth Advisors,Active,Mumbai,2018-12-21,2023-12-20,sonal.patel@patel-wealth.com,Mutual Funds
+INA000003499,Tanvi Kulkarni,Kulkarni Wealth Advisors,Active,Lucknow,2020-03-04,2025-03-03,tanvi.kulkarni@kulkarni-wealth.com,Equity Research
