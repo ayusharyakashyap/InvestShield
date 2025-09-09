@@ -1,0 +1,24 @@
+{
+  "training_timestamp": "2025-08-29T19:54:26.549805",
+  "datasets_used": {
+    "suspicious_posts": 50,
+    "corporate_announcements": 520,
+    "advisors": 538,
+    "total_training_samples": 590
+  },
+  "model_performance": {
+    "training_accuracy": 1.0,
+    "test_accuracy": 0.9745762711864406,
+    "cv_mean": 0.9660694288913774,
+    "cv_std": 0.012464566638586727,
+    "total_samples": 590,
+    "model_path": "/Users/ayusharyakashyap/Desktop/I & P/Securities Market Hackathon/InvestShield/models/enhanced_fraud_model.pkl"
+  },
+  "improvements": [
+    "Trained on comprehensive real dataset",
+    "Enhanced feature extraction with advanced NLP",
+    "Ensemble model with multiple algorithms",
+    "Cross-validation for robust performance",
+    "Improved fraud pattern detection"
+  ]
+}

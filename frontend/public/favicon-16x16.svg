@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <linearGradient id="smallGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6"/>
+      <stop offset="100%" style="stop-color:#1d4ed8"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Shield shape simplified for 16x16 -->
+  <path d="M8,1 L2,3 L2,6.5 C2,9.5 4,12.5 8,13.5 C12,12.5 14,9.5 14,6.5 L14,3 L8,1 Z" 
+        fill="url(#smallGrad)"/>
+  
+  <!-- Simple check mark -->
+  <path d="M6,7.5 L7,8.5 L10,5.5" 
+        fill="none" 
+        stroke="white" 
+        stroke-width="1.5" 
+        stroke-linecap="round"/>
+</svg>
